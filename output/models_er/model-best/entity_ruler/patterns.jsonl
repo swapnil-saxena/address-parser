@@ -1,0 +1,50 @@
+{"label":"STATE","pattern":[{"LOWER":"alabama"}]}
+{"label":"STATE","pattern":[{"LOWER":"alaska"}]}
+{"label":"STATE","pattern":[{"LOWER":"arizona"}]}
+{"label":"STATE","pattern":[{"LOWER":"arkansas"}]}
+{"label":"STATE","pattern":[{"LOWER":"california"}]}
+{"label":"STATE","pattern":[{"LOWER":"colorado"}]}
+{"label":"STATE","pattern":[{"LOWER":"connecticut"}]}
+{"label":"STATE","pattern":[{"LOWER":"delaware"}]}
+{"label":"STATE","pattern":[{"LOWER":"florida"}]}
+{"label":"STATE","pattern":[{"LOWER":"georgia"}]}
+{"label":"STATE","pattern":[{"LOWER":"hawaii"}]}
+{"label":"STATE","pattern":[{"LOWER":"idaho"}]}
+{"label":"STATE","pattern":[{"LOWER":"illinois"}]}
+{"label":"STATE","pattern":[{"LOWER":"indiana"}]}
+{"label":"STATE","pattern":[{"LOWER":"iowa"}]}
+{"label":"STATE","pattern":[{"LOWER":"kansas"}]}
+{"label":"STATE","pattern":[{"LOWER":"kentucky"}]}
+{"label":"STATE","pattern":[{"LOWER":"louisiana"}]}
+{"label":"STATE","pattern":[{"LOWER":"maine"}]}
+{"label":"STATE","pattern":[{"LOWER":"maryland"}]}
+{"label":"STATE","pattern":[{"LOWER":"massachusetts"}]}
+{"label":"STATE","pattern":[{"LOWER":"michigan"}]}
+{"label":"STATE","pattern":[{"LOWER":"minnesota"}]}
+{"label":"STATE","pattern":[{"LOWER":"mississippi"}]}
+{"label":"STATE","pattern":[{"LOWER":"missouri"}]}
+{"label":"STATE","pattern":[{"LOWER":"montana"}]}
+{"label":"STATE","pattern":[{"LOWER":"nebraska"}]}
+{"label":"STATE","pattern":[{"LOWER":"nevada"}]}
+{"label":"STATE","pattern":[{"LOWER":"new hampshire"}]}
+{"label":"STATE","pattern":[{"LOWER":"new jersey"}]}
+{"label":"STATE","pattern":[{"LOWER":"new mexico"}]}
+{"label":"STATE","pattern":[{"LOWER":"new york"}]}
+{"label":"STATE","pattern":[{"LOWER":"north carolina"}]}
+{"label":"STATE","pattern":[{"LOWER":"north dakota"}]}
+{"label":"STATE","pattern":[{"LOWER":"ohio"}]}
+{"label":"STATE","pattern":[{"LOWER":"oklahoma"}]}
+{"label":"STATE","pattern":[{"LOWER":"oregon"}]}
+{"label":"STATE","pattern":[{"LOWER":"pennsylvania"}]}
+{"label":"STATE","pattern":[{"LOWER":"rhode island"}]}
+{"label":"STATE","pattern":[{"LOWER":"south carolina"}]}
+{"label":"STATE","pattern":[{"LOWER":"south dakota"}]}
+{"label":"STATE","pattern":[{"LOWER":"tennessee"}]}
+{"label":"STATE","pattern":[{"LOWER":"texas"}]}
+{"label":"STATE","pattern":[{"LOWER":"utah"}]}
+{"label":"STATE","pattern":[{"LOWER":"vermont"}]}
+{"label":"STATE","pattern":[{"LOWER":"virginia"}]}
+{"label":"STATE","pattern":[{"LOWER":"washington"}]}
+{"label":"STATE","pattern":[{"LOWER":"west virginia"}]}
+{"label":"STATE","pattern":[{"LOWER":"wisconsin"}]}
+{"label":"STATE","pattern":[{"LOWER":"wyoming"}]}
