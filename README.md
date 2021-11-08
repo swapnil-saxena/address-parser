@@ -1,5 +1,5 @@
 # address-parser
-This is a minimal implementation of a US address parser built using [spaCy NLP](https://spacy.io/usage/spacy-101) library. This [blog post]() covers the implementation and execution details at length.
+This is a minimal implementation of a US address parser built using [spaCy NLP](https://spacy.io/usage/spacy-101) library. This [blog post](https://medium.com/globant/building-an-address-parser-with-spacy-e3376b7cff) covers the implementation and execution details at length.
 <br><br>
 # Prerequisites
 - Python v3.x
