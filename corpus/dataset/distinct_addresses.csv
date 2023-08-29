@@ -1,501 +1,501 @@
 straat,huisnummer,huisletter,huistoevoeging,woonplaats,postcode,oppervlakte,gebruiksdoel,full_address
-Trekweg,171,,,'s-Gravenhage,2516 SG,84,woonfunctie,Trekweg 171   2516 SG 's-Gravenhage
-P.C. Boutenslaan,211,,,Harderwijk,3842 BE,68,woonfunctie,P.C. Boutenslaan 211   3842 BE Harderwijk
-Schaepmanlaan,68,,,Oss,5344 BE,80,woonfunctie,Schaepmanlaan 68   5344 BE Oss
-Boetonstraat,95,,,Amsterdam,1095 ZA,40,woonfunctie,Boetonstraat 95   1095 ZA Amsterdam
-Het Ravelijn,502,,,Lelystad,8233BW,68,woonfunctie,Het Ravelijn 502   8233BW Lelystad
-Fazantenlaan,5,,,Wezep,8091 BH,262,woonfunctie,Fazantenlaan 5   8091 BH Wezep
-Bedrijfsweg,74,,,Geleen,6163 CZ,58,industriefunctie,Bedrijfsweg 74   6163 CZ Geleen
-Groot-Bijgaardenlaan,135,,,Eindhoven,5628VV,136,woonfunctie,Groot-Bijgaardenlaan 135   5628VV Eindhoven
-Kolmeer,35,,,Sneek,8604 EP,117,woonfunctie,Kolmeer 35   8604 EP Sneek
-Kleine Heistraat,15,,,Wernhout,4884ME,95,woonfunctie,Kleine Heistraat 15   4884ME Wernhout
-Nieuwe Prinsengracht,94,E,,Amsterdam,1018VW,62,woonfunctie,Nieuwe Prinsengracht 94 E  1018VW Amsterdam
-Haaksbergerstraat,293,,,Enschede,7545 GJ,56,woonfunctie,Haaksbergerstraat 293   7545 GJ Enschede
-Schoonekamp,3,,,Koog aan de Zaan,1541XS,109,woonfunctie,Schoonekamp 3   1541XS Koog aan de Zaan
-Heer Dickbierweg,31,,,Mierlo,5731CK,123,woonfunctie,Heer Dickbierweg 31   5731CK Mierlo
-Smidswater,4,A,,'s-Gravenhage,2514BV,113,woonfunctie,Smidswater 4 A  2514BV 's-Gravenhage
-Nieuwlandsedreef,22,,,Amersfoort,3824 PZ,145,woonfunctie,Nieuwlandsedreef 22   3824 PZ Amersfoort
-Dr. M.L. Kingstraat,60,,,Landsmeer,1121CT,109,woonfunctie,Dr. M.L. Kingstraat 60   1121CT Landsmeer
-Prinsesselaan,16,,,Hoogezand,9602GK,139,woonfunctie,Prinsesselaan 16   9602GK Hoogezand
-Jac. P. Thijssepark,56,,,Naarden,1411 XX,47,woonfunctie,Jac. P. Thijssepark 56   1411 XX Naarden
-Oosteind,26,,,Norg,9331AJ,85,woonfunctie,Oosteind 26   9331AJ Norg
-Nieuwe Schaft,9,,,Houten,3991 AS,3415,overige gebruiksfunctie,Nieuwe Schaft 9   3991 AS Houten
-Binnengasthuisstraat,146,,,Amsterdam,1012 ZG,115,woonfunctie,Binnengasthuisstraat 146   1012 ZG Amsterdam
-Akker,52,,,Brielle,3232 RA,99,woonfunctie,Akker 52   3232 RA Brielle
-Boeier,29,,,Barendrecht,2991 KB,119,woonfunctie,Boeier 29   2991 KB Barendrecht
-Vijverlaan,126,,,Arnhem,6822HG,98,woonfunctie,Vijverlaan 126   6822HG Arnhem
-Houtmankade,324,,,Amsterdam,1013RR,79,woonfunctie,Houtmankade 324   1013RR Amsterdam
-St. Annepad,13,,,Loosdrecht,1231AT,129,woonfunctie,St. Annepad 13   1231AT Loosdrecht
-Leeuweriklaan,3,,,Bussum,1403CK,17,overige gebruiksfunctie,Leeuweriklaan 3   1403CK Bussum
-De Garst,8,,,Midwoud,1679VA,48,woonfunctie,De Garst 8   1679VA Midwoud
-Dom Helder Camarastraat,159,,,Purmerend,1447 ZT,78,woonfunctie,Dom Helder Camarastraat 159   1447 ZT Purmerend
-Olympiapad,9,K,04,Maastricht,6225 XL,89,woonfunctie,Olympiapad 9 K 04 6225 XL Maastricht
-Varkensmarkt,10,,06,Lichtenvoorde,7131 DH,62,woonfunctie,Varkensmarkt 10  06 7131 DH Lichtenvoorde
-Dalmatië,29,,,Leusden,3831EE,151,woonfunctie,Dalmatië 29   3831EE Leusden
-Lupinestraat,17,,,Nieuwegein,3434HA,479,onderwijsfunctie,Lupinestraat 17   3434HA Nieuwegein
-Zuidelijke Steijnkade,27,,,Gouda,2806ZB,76,woonfunctie,Zuidelijke Steijnkade 27   2806ZB Gouda
-Rietvoorndaal,11,,,'s-Gravenhage,2553 NH,128,woonfunctie,Rietvoorndaal 11   2553 NH 's-Gravenhage
-Groot-Brittanniëstraat,222,,,Lent,6663HW,144,woonfunctie,Groot-Brittanniëstraat 222   6663HW Lent
-Molendijk,33,,,Goudswaard,3267AL,75,woonfunctie,Molendijk 33   3267AL Goudswaard
-Kuyperlaan,22,,,Hillegom,2181VK,77,woonfunctie,Kuyperlaan 22   2181VK Hillegom
-Johan Huizingalaan,183,,,Amsterdam,1065JA,210,winkelfunctie,Johan Huizingalaan 183   1065JA Amsterdam
-Julianalaan,19,,,Vaassen,8171 EA,206,woonfunctie,Julianalaan 19   8171 EA Vaassen
-Fossemaheerd,90,,,Groningen,9737 KH,125,woonfunctie,Fossemaheerd 90   9737 KH Groningen
-Berg en Dalseweg,342,,,Nijmegen,6522 CR,681,winkelfunctie,Berg en Dalseweg 342   6522 CR Nijmegen
-Schapenweide,35,,,Zoetermeer,2727HX,114,woonfunctie,Schapenweide 35   2727HX Zoetermeer
-Van Leeuwenhoekstraat,61,B,,Hilversum,1222SH,124,woonfunctie,Van Leeuwenhoekstraat 61 B  1222SH Hilversum
-Perkswaltje,29,,,Leeuwarden,8911EE,106,woonfunctie,Perkswaltje 29   8911EE Leeuwarden
-Spuistraat,57,D,,Amsterdam,1012ST,50,woonfunctie,Spuistraat 57 D  1012ST Amsterdam
-Reigerstraat,6,,,Zierikzee,4302XB,115,woonfunctie,Reigerstraat 6   4302XB Zierikzee
-Rozenstraat,46,,,Nuth,6361 HT,92,woonfunctie,Rozenstraat 46   6361 HT Nuth
-Zevenhuisterweg,104,,,Noardburgum,9257 VN,270,woonfunctie,Zevenhuisterweg 104   9257 VN Noardburgum
-Veneweg,115,,,Wanneperveen,7946LH,137,woonfunctie,Veneweg 115   7946LH Wanneperveen
-Markt,84,,,Westkapelle,4361 AG,237,woonfunctie,Markt 84   4361 AG Westkapelle
-Baarsveen,256,,,Spijkenisse,3205 BM,118,woonfunctie,Baarsveen 256   3205 BM Spijkenisse
-de Wilg,28,,,Nieuwerkerk aan den IJssel,2912RH,74,woonfunctie,de Wilg 28   2912RH Nieuwerkerk aan den IJssel
-Akervoorderlaan,22,,,Voorhout,2215SC,340,woonfunctie,Akervoorderlaan 22   2215SC Voorhout
-Kanaalweg-Oost,100,,,Hoogenweg,7793HB,133,woonfunctie,Kanaalweg-Oost 100   7793HB Hoogenweg
-Eskant,14,,004,Borger,9531AN,14,overige gebruiksfunctie,Eskant 14  004 9531AN Borger
-Kerkdreef,24,,,Axel,4571GJ,46,woonfunctie,Kerkdreef 24   4571GJ Axel
-Petrus Dondersstraat,79,,G24,Eindhoven,,18,overige gebruiksfunctie,Petrus Dondersstraat 79  G24  Eindhoven
-Schorpioen,38,,,Katwijk,2221 NA,112,woonfunctie,Schorpioen 38   2221 NA Katwijk
-Kievitenlaan,3,,,Veere,4351TA,65,woonfunctie,Kievitenlaan 3   4351TA Veere
-Potgieterstraat,34,,,Goor,7471ZN,132,woonfunctie,Potgieterstraat 34   7471ZN Goor
-Pluimgras,32,,,Leiden,2318 TL,75,woonfunctie,Pluimgras 32   2318 TL Leiden
-'t Magesijn,55,b,,Klundert,4791 KK,17,overige gebruiksfunctie,'t Magesijn 55 b  4791 KK Klundert
-Cornelis Lelylaan,5,C,4,Amsterdam,1062HD,27,woonfunctie,Cornelis Lelylaan 5 C 4 1062HD Amsterdam
-Brem,29,,,Oldenzaal,7577EN,154,woonfunctie,Brem 29   7577EN Oldenzaal
-Louis van Gasterenstraat,76,,,Hengelo,7558SL,72,woonfunctie,Louis van Gasterenstraat 76   7558SL Hengelo
-Hoofdstraat,186,,,Leiderdorp,2351 AR,44,woonfunctie,Hoofdstraat 186   2351 AR Leiderdorp
-Admiraal de Ruyterlaan,69,,,Hilversum,1215LW,52,woonfunctie,Admiraal de Ruyterlaan 69   1215LW Hilversum
-Herstallenstraat,34,,,Goirle,5051 TE,70,woonfunctie,Herstallenstraat 34   5051 TE Goirle
-Jufferstraat,43,,,Arnhem,6828 AE,46,woonfunctie,Jufferstraat 43   6828 AE Arnhem
-Lange Breestraat,60,,,Dordrecht,3311VK,73,woonfunctie,Lange Breestraat 60   3311VK Dordrecht
-Jan Mosmanslaan,29,B,,'s-Hertogenbosch,5237BB,19,gezondheidszorgfunctie,Jan Mosmanslaan 29 B  5237BB 's-Hertogenbosch
-Schuitendiep,76,b,,Groningen,9711RG,26,woonfunctie,Schuitendiep 76 b  9711RG Groningen
-Van Reigersbergenstraat,2,,,Amsterdam,,7,overige gebruiksfunctie,Van Reigersbergenstraat 2    Amsterdam
-Jan van Beaumontstraat,18,,,Krommenie,1561VS,88,woonfunctie,Jan van Beaumontstraat 18   1561VS Krommenie
-Wierselaan,233,,,Nieuwegein,3433 ZT,55,kantoorfunctie,Wierselaan 233   3433 ZT Nieuwegein
-Nijverheidstraat,19,,,Hengelo,7555HL,92,woonfunctie,Nijverheidstraat 19   7555HL Hengelo
-Marktstraat,16,e,,Scherpenzeel,3925JR,153,woonfunctie,Marktstraat 16 e  3925JR Scherpenzeel
-Langbroekerdijk A,22,,,Langbroek,3947BH,229,woonfunctie,Langbroekerdijk A 22   3947BH Langbroek
-Dordtselaan,11,D,,Rotterdam,3081BB,61,woonfunctie,Dordtselaan 11 D  3081BB Rotterdam
-Hendrik Jacobszstraat,24,,H,Amsterdam,1075 PE,91,woonfunctie,Hendrik Jacobszstraat 24  H 1075 PE Amsterdam
-Cromwijk,57,,,Amersfoort,3813 XL,67,woonfunctie,Cromwijk 57   3813 XL Amersfoort
-Windmolen,15,K,,Veldhoven,,15,overige gebruiksfunctie,Windmolen 15 K   Veldhoven
-Boddenkampsingel,80,,45,Enschede,7514 AR,113,woonfunctie,Boddenkampsingel 80  45 7514 AR Enschede
-Wethouder van Hekezenlaan,11,,,Barneveld,3771VS,210,woonfunctie,Wethouder van Hekezenlaan 11   3771VS Barneveld
-Frankenplantsoen,5,,,Wijk bij Duurstede,3962CG,112,woonfunctie,Frankenplantsoen 5   3962CG Wijk bij Duurstede
-Oude Rijksweg,10,,,Krabbendijke,4413NK,249,woonfunctie,Oude Rijksweg 10   4413NK Krabbendijke
-De Terp,86,,,Geldermalsen,4191 LG,66,woonfunctie,De Terp 86   4191 LG Geldermalsen
-De Weteringsbrugmolen,16,,,Amstelveen,1188 HA,113,woonfunctie,De Weteringsbrugmolen 16   1188 HA Amstelveen
-Hercules Segherslaan,96,,G1,Vlissingen,,20,overige gebruiksfunctie,Hercules Segherslaan 96  G1  Vlissingen
-Pieter van IJpelaarstraat,14,,,Geertruidenberg,4931RW,120,woonfunctie,Pieter van IJpelaarstraat 14   4931RW Geertruidenberg
-Amerika H,6,,,Een,9342TN,57,woonfunctie,Amerika H 6   9342TN Een
-Geulstraat,39,,,Sliedrecht,3363HS,50,woonfunctie,Geulstraat 39   3363HS Sliedrecht
-Mareheiweg,6,,,Klimmen,6343EK,183,woonfunctie,Mareheiweg 6   6343EK Klimmen
-Vrugteveensweg,15,,,Hellendoorn,7447 AL,192,woonfunctie,Vrugteveensweg 15   7447 AL Hellendoorn
-Voornsehoek,23,,,Amstelveen,1181CK,69,woonfunctie,Voornsehoek 23   1181CK Amstelveen
-Jacob Catsstraat,65,,65,'s-Gravenhage,2515 GC,51,woonfunctie,Jacob Catsstraat 65  65 2515 GC 's-Gravenhage
-Middelgraafpad,5,,,Arnhem,6832 AS,444,woonfunctie,Middelgraafpad 5   6832 AS Arnhem
-Briljantstoep,8,,,Assen,9403 SH,120,woonfunctie,Briljantstoep 8   9403 SH Assen
-Doornstraat,4,D,,'s-Gravenhage,2584AM,72,woonfunctie,Doornstraat 4 D  2584AM 's-Gravenhage
-Cornelis Lelyhage,20,,,Emmeloord,8302 TB,118,woonfunctie,Cornelis Lelyhage 20   8302 TB Emmeloord
-Rijksweg Centrum,35,A,,Geleen,6161EB,103,woonfunctie,Rijksweg Centrum 35 A  6161EB Geleen
-Fiifhuzen,28,,,Harkema,9281 LH,195,woonfunctie,Fiifhuzen 28   9281 LH Harkema
-Hoge Gouwe,69,,,Gouda,2801 LC,188,woonfunctie,Hoge Gouwe 69   2801 LC Gouda
-Herenweg,276,,Z56,Vinkeveen,3645DX,-1,,Herenweg 276  Z56 3645DX Vinkeveen
-Eikenlaan,49,,,Kolham,9615AP,67,woonfunctie,Eikenlaan 49   9615AP Kolham
-Veldstraat,18,B,02,Maastricht,6227 SZ,81,woonfunctie,Veldstraat 18 B 02 6227 SZ Maastricht
-Zamenhofstraat,61,,,Krommenie,1561 JR,71,woonfunctie,Zamenhofstraat 61   1561 JR Krommenie
-Zwaluwstraat,12,,,Tilburg,5022BA,104,woonfunctie,Zwaluwstraat 12   5022BA Tilburg
-Kees Veerstraat,22,,,Andijk,1619CS,87,woonfunctie,Kees Veerstraat 22   1619CS Andijk
-Schout,133,,,Naarden,1412 ND,120,woonfunctie,Schout 133   1412 ND Naarden
-Entensgang,9,,,Groningen,9711NJ,48,woonfunctie,Entensgang 9   9711NJ Groningen
-Park de Kempervennen,59,,,Westerhoven,5563VC,78,logiesfunctie,Park de Kempervennen 59   5563VC Westerhoven
-Schoolstraat,6,,,Marum,9363BH,143,woonfunctie,Schoolstraat 6   9363BH Marum
-Bergvennenhoek,108,,,Enschede,7546NC,161,woonfunctie,Bergvennenhoek 108   7546NC Enschede
-Michiel de Ruyterlaan,63,,,Oirschot,5688CK,86,woonfunctie,Michiel de Ruyterlaan 63   5688CK Oirschot
-Kermispad,27,,,Amsterdam,1033WX,68,woonfunctie,Kermispad 27   1033WX Amsterdam
-Martin Luther Kinglaan,103,,,Rijswijk,2286AJ,81,woonfunctie,Martin Luther Kinglaan 103   2286AJ Rijswijk
-Sophiastraat,9,,,Pijnacker,2641HL,100,woonfunctie,Sophiastraat 9   2641HL Pijnacker
-Opwierderweg,70,,,Appingedam,9902 RE,132,woonfunctie,Opwierderweg 70   9902 RE Appingedam
-2e Louise de Colignystraat,63,,,'s-Gravenhage,2595 SM,193,woonfunctie,2e Louise de Colignystraat 63   2595 SM 's-Gravenhage
-Bunsenstraat,1,,,Nijmegen,6533JJ,52,woonfunctie,Bunsenstraat 1   6533JJ Nijmegen
-Prinses Irenelaan,27,,,Best,5684GV,183,woonfunctie,Prinses Irenelaan 27   5684GV Best
-Gaasbaklaan,20,,,Sassenheim,2171 LK,91,woonfunctie,Gaasbaklaan 20   2171 LK Sassenheim
-Tjalk 19,4,,,Lelystad,8232 LN,110,woonfunctie,Tjalk 19 4   8232 LN Lelystad
-Hennepstraat,41,,,Arnhem,6842BJ,94,woonfunctie,Hennepstraat 41   6842BJ Arnhem
-Wieringermeerpolder,15,,,Amersfoort,3825JZ,134,woonfunctie,Wieringermeerpolder 15   3825JZ Amersfoort
-Rossinistraat,40,,,Waalwijk,5144 XV,131,woonfunctie,Rossinistraat 40   5144 XV Waalwijk
-Graaf Janstraat,48,,,Ridderkerk,2983 HE,111,woonfunctie,Graaf Janstraat 48   2983 HE Ridderkerk
-Orionweg,66,,,IJmuiden,1973TM,90,woonfunctie,Orionweg 66   1973TM IJmuiden
-Stationsstraat,64,,,Veenendaal,3905 JK,217,woonfunctie,Stationsstraat 64   3905 JK Veenendaal
-Kruisweg,5,,h111,Callantsoog,1759JA,26,logiesfunctie,Kruisweg 5  h111 1759JA Callantsoog
-Kajuit,36,,,Almere,1319 AP,105,woonfunctie,Kajuit 36   1319 AP Almere
-Maarsdreef,526,,,Stadskanaal,9501EK,76,woonfunctie,Maarsdreef 526   9501EK Stadskanaal
-Moezelstraat,57,,,Lelystad,8226 LB,110,woonfunctie,Moezelstraat 57   8226 LB Lelystad
-Kimwierde,14,,,Almere,1353 DB,81,woonfunctie,Kimwierde 14   1353 DB Almere
-Oostvlietweg,13,C,,Leidschendam,2266BL,176,woonfunctie,Oostvlietweg 13 C  2266BL Leidschendam
-Noordhoekring,290,,,Tilburg,5038GG,121,woonfunctie,Noordhoekring 290   5038GG Tilburg
-Constantijn Huygenslaan,31,,,Winschoten,9673HA,59,woonfunctie,Constantijn Huygenslaan 31   9673HA Winschoten
-Populier,80,,,Best,5682GG,124,woonfunctie,Populier 80   5682GG Best
-Neptunusplein,9,,,Amersfoort,3814 BA,1477,winkelfunctie,Neptunusplein 9   3814 BA Amersfoort
-Tesselschadelaan,96,,,'s-Gravenhage,2533 KX,64,woonfunctie,Tesselschadelaan 96   2533 KX 's-Gravenhage
-Boelijn,165,,,Almere,1319 DP,129,woonfunctie,Boelijn 165   1319 DP Almere
-Tempelierstraat,5,,,Wijk en Aalburg,4261DD,155,woonfunctie,Tempelierstraat 5   4261DD Wijk en Aalburg
-Klatering,24,T,1,Beilen,9411 XG,12,overige gebruiksfunctie,Klatering 24 T 1 9411 XG Beilen
-Ulrumpad,42,,,Arnhem,6835AP,138,woonfunctie,Ulrumpad 42   6835AP Arnhem
-Zilverschoon,38,,,Sevenum,5975TE,143,woonfunctie,Zilverschoon 38   5975TE Sevenum
-Roermondseweg,29,,WINK,Posterholt,6061 GA,173,winkelfunctie,Roermondseweg 29  WINK 6061 GA Posterholt
-De Lagune,7,,,Amersfoort,3823TS,183,woonfunctie,De Lagune 7   3823TS Amersfoort
-Westerstraat,217,j,,Enkhuizen,1601AH,23,woonfunctie,Westerstraat 217 j  1601AH Enkhuizen
-Kanaaldijk,88,,,Ossenisse,4589RP,102,logiesfunctie,Kanaaldijk 88   4589RP Ossenisse
-Beekforel,8,,,Rossum,5328 BV,117,woonfunctie,Beekforel 8   5328 BV Rossum
-Orchideestraat,6,C,,Spijkenisse,3202 HW,57,woonfunctie,Orchideestraat 6 C  3202 HW Spijkenisse
-Broekweg,8,,,Hengelo (Gld),7255 KP,335,woonfunctie,Broekweg 8   7255 KP Hengelo (Gld)
-Willemspoort,202,,,'s-Hertogenbosch,5223 WV,84,woonfunctie,Willemspoort 202   5223 WV 's-Hertogenbosch
-Eggerweg,2,,,Sittard,6135LG,540,kantoorfunctie,Eggerweg 2   6135LG Sittard
-Westlander,97,,,Honselersdijk,2675RM,147,woonfunctie,Westlander 97   2675RM Honselersdijk
-Pijperstraat,92,,,Geleen,6164 XW,92,woonfunctie,Pijperstraat 92   6164 XW Geleen
-Heelkruid,7,,,Amersfoort,3824 NR,132,woonfunctie,Heelkruid 7   3824 NR Amersfoort
-Vrijheidsstraat,24,,,Oude Pekela,9665 KV,62,woonfunctie,Vrijheidsstraat 24   9665 KV Oude Pekela
-Apollolaan,90,,,Heerlen,6411BD,47,woonfunctie,Apollolaan 90   6411BD Heerlen
-Mr. D.J. van Heusdestraat,52,,,Gouda,2806XJ,84,woonfunctie,Mr. D.J. van Heusdestraat 52   2806XJ Gouda
-Pomperschans,14,a,,Leende,5595 AV,120,woonfunctie,Pomperschans 14 a  5595 AV Leende
-Krommepad,5,g,,Laren,1251HP,72,kantoorfunctie,Krommepad 5 g  1251HP Laren
-Stationsweg,92,,015,Heiloo,1852 LN,62,gezondheidszorgfunctie,Stationsweg 92  015 1852 LN Heiloo
-Driehuizerweg,36,,,Apeldoorn,7312DW,69,woonfunctie,Driehuizerweg 36   7312DW Apeldoorn
-Zwarteweg,5,,,Zwolle,8017 AS,72,woonfunctie,Zwarteweg 5   8017 AS Zwolle
-Hendersonplaats,7,,,Rotterdam,3068JM,3075,bijeenkomstfunctie,Hendersonplaats 7   3068JM Rotterdam
-Albert van 't Hartweg,46,a,,Nieuwerkerk aan den IJssel,2913LG,220,kantoorfunctie,Albert van 't Hartweg 46 a  2913LG Nieuwerkerk aan den IJssel
-Spaanse Aakstraat,14,,am,Groningen,,19,overige gebruiksfunctie,Spaanse Aakstraat 14  am  Groningen
-Eekschillersweg,11,,,Gieten,9461 JK,88,woonfunctie,Eekschillersweg 11   9461 JK Gieten
-Maagdenbergweg,5,,,Oostburg,4501NG,95,woonfunctie,Maagdenbergweg 5   4501NG Oostburg
-Zwanenkamp,562,,,Maarssen,3607PG,98,woonfunctie,Zwanenkamp 562   3607PG Maarssen
-Laan van Vollenhove,367,,,Zeist,3706CK,74,woonfunctie,Laan van Vollenhove 367   3706CK Zeist
-Lukassenpad,13,,,Oosterbeek,6862 CJ,155,woonfunctie,Lukassenpad 13   6862 CJ Oosterbeek
-Huenderweg,16,a,,Doldersum,8386 XB,210,woonfunctie,Huenderweg 16 a  8386 XB Doldersum
-Duintjerlaan,6,,,Wildervank,9648 ME,140,woonfunctie,Duintjerlaan 6   9648 ME Wildervank
-Vebenabos,1,,,Koudekerke,4371 PA,80,logiesfunctie,Vebenabos 1   4371 PA Koudekerke
-Hekmeijerstraat,24,,,Utrecht,3572WG,73,woonfunctie,Hekmeijerstraat 24   3572WG Utrecht
-G.J. van Heekstraat,108,B,,Enschede,7521EH,39,woonfunctie,G.J. van Heekstraat 108 B  7521EH Enschede
-De Haarweg,16,,,Lutten,7775 PX,186,woonfunctie,De Haarweg 16   7775 PX Lutten
-It West,31,,,Augustinusga,9284KD,155,woonfunctie,It West 31   9284KD Augustinusga
-Houtsweg,16,,,Nederweert-Eind,6034 SP,116,bijeenkomstfunctie,Houtsweg 16   6034 SP Nederweert-Eind
-Rozengracht,48,C,,Amsterdam,1016 ND,45,woonfunctie,Rozengracht 48 C  1016 ND Amsterdam
-Kooipad,1,C,,Schiermonnikoog,9166SB,38,logiesfunctie,Kooipad 1 C  9166SB Schiermonnikoog
-Gracht,4,,,Kruiningen,4416GA,54,woonfunctie,Gracht 4   4416GA Kruiningen
-'t Zand,11,,,Well L,5855BW,179,woonfunctie,'t Zand 11   5855BW Well L
-Waterfront,157,,,Eindhoven,5658 SG,68,woonfunctie,Waterfront 157   5658 SG Eindhoven
-Rolderdiephof,40,,,Utrecht,3521 DA,93,woonfunctie,Rolderdiephof 40   3521 DA Utrecht
-Muzenlaan,26,,,Eindhoven,5631GD,112,woonfunctie,Muzenlaan 26   5631GD Eindhoven
-Rietschoot,143,c,,Oostzaan,1511WG,17,overige gebruiksfunctie,Rietschoot 143 c  1511WG Oostzaan
-Johannes Vermeerstraat,4,,,Heerlen,6415 TR,105,woonfunctie,Johannes Vermeerstraat 4   6415 TR Heerlen
-Alsemstraat,278,,,Hoogvliet Rotterdam,3193 RG,62,woonfunctie,Alsemstraat 278   3193 RG Hoogvliet Rotterdam
-Herenmarkt,20,,1,Amsterdam,1013 ED,57,woonfunctie,Herenmarkt 20  1 1013 ED Amsterdam
-Jan van Daalstraat,32,,,Beers NB,5437AZ,176,woonfunctie,Jan van Daalstraat 32   5437AZ Beers NB
-Marsdiepstraat,413,E,,Den Helder,1784 AH,81,woonfunctie,Marsdiepstraat 413 E  1784 AH Den Helder
-Patrijzendijk,3,,,Vogelwaarde,4581RV,197,woonfunctie,Patrijzendijk 3   4581RV Vogelwaarde
-Rechterenstraat,98,,,'s-Gravenhage,2531RW,55,woonfunctie,Rechterenstraat 98   2531RW 's-Gravenhage
-Kerkdijk,23,A,,Westbroek,3615BA,155,woonfunctie,Kerkdijk 23 A  3615BA Westbroek
-Boereweide,30,,,Oosterwolde,8431 PM,90,woonfunctie,Boereweide 30   8431 PM Oosterwolde
-Robert Graaflandlaan,44,,,Maastricht,6217NZ,102,woonfunctie,Robert Graaflandlaan 44   6217NZ Maastricht
-Raadhuisstraat,13,,,Rozenburg,3181CH,54,woonfunctie,Raadhuisstraat 13   3181CH Rozenburg
-Wal,151,,,Veldhoven,5501HE,58,woonfunctie,Wal 151   5501HE Veldhoven
-Gieser Wildeman,23,,,Hardinxveld-Giessendam,3371NG,135,woonfunctie,Gieser Wildeman 23   3371NG Hardinxveld-Giessendam
-Italiëlaan,25,,105,Zoetermeer,,68,woonfunctie,Italiëlaan 25  105  Zoetermeer
-Kerkstraat,13,,,Wijlre,6321 AH,60,woonfunctie,Kerkstraat 13   6321 AH Wijlre
-Boeier,62,,,Hoorn,1625CK,104,woonfunctie,Boeier 62   1625CK Hoorn
-Waleweinlaan,40,,,Geldrop,5665CK,98,woonfunctie,Waleweinlaan 40   5665CK Geldrop
-Bachplaats,25,,,Bergschenhoek,2661 HD,151,woonfunctie,Bachplaats 25   2661 HD Bergschenhoek
-Radarstraat,87,,,IJmuiden,1973ZA,34,woonfunctie,Radarstraat 87   1973ZA IJmuiden
-Hoopstede,50,,,Heerenveen,8447DK,140,woonfunctie,Hoopstede 50   8447DK Heerenveen
-Chopinlaan,82,,,Groningen,9722 KH,117,woonfunctie,Chopinlaan 82   9722 KH Groningen
-van Goyenlaan,56,,,Soest,3764XK,61,woonfunctie,van Goyenlaan 56   3764XK Soest
-Thalassa,13,,,Wormerveer,1521 NX,212,woonfunctie,Thalassa 13   1521 NX Wormerveer
-de Singelhof,13,,,St. Willebrord,4711EB,51,woonfunctie,de Singelhof 13   4711EB St. Willebrord
-Muntmeester,457,A,,Uden,5406BJ,110,woonfunctie,Muntmeester 457 A  5406BJ Uden
-Joost van den Vondelstraat,77,,,Sliedrecht,3362TM,51,woonfunctie,Joost van den Vondelstraat 77   3362TM Sliedrecht
-Schelluinsestraat,10,f,,Gorinchem,4203NL,69,industriefunctie,Schelluinsestraat 10 f  4203NL Gorinchem
-Kattenborg,2,,,Eibergen,7151 XG,152,woonfunctie,Kattenborg 2   7151 XG Eibergen
-Berkenlaan,53,,,Nieuwleusen,7711 MB,88,woonfunctie,Berkenlaan 53   7711 MB Nieuwleusen
-Sint Jorisstraat,10,,,Veldhoven,5508LW,299,woonfunctie,Sint Jorisstraat 10   5508LW Veldhoven
-Anne Frankstraat,263,,,Venlo,5912 HB,76,woonfunctie,Anne Frankstraat 263   5912 HB Venlo
-Irenelaan,9,,,Stadskanaal,9503 KB,147,woonfunctie,Irenelaan 9   9503 KB Stadskanaal
-Wethouder Serrurierstraat,50,,,Amsterdam,1107CG,78,woonfunctie,Wethouder Serrurierstraat 50   1107CG Amsterdam
-Blekersdijk,1,A,,Dordrecht,3311 LC,57,woonfunctie,Blekersdijk 1 A  3311 LC Dordrecht
-Castorstraat,71,,,Eindhoven,5631EL,82,woonfunctie,Castorstraat 71   5631EL Eindhoven
-Zilverlinde,19,,,Kaatsheuvel,5172 GN,124,woonfunctie,Zilverlinde 19   5172 GN Kaatsheuvel
-Schaesbergerstraat,2,B,,Kerkrade,6467 EC,75,woonfunctie,Schaesbergerstraat 2 B  6467 EC Kerkrade
-Zuiderzeestraat,19,,,Oost-Souburg,4388 GN,121,woonfunctie,Zuiderzeestraat 19   4388 GN Oost-Souburg
-Echternachlaan,162,,,Eindhoven,5625JC,66,woonfunctie,Echternachlaan 162   5625JC Eindhoven
-Markkade,2,A,,Breda,4815 HJ,103,bijeenkomstfunctie,Markkade 2 A  4815 HJ Breda
-Dorpsstraat,219,,,Assendelft,1566AJ,557,woonfunctie,Dorpsstraat 219   1566AJ Assendelft
-Spicastraat,192,a,,Groningen,9742LW,85,woonfunctie,Spicastraat 192 a  9742LW Groningen
-Entensgang,6,,,Groningen,9711NJ,52,woonfunctie,Entensgang 6   9711NJ Groningen
-Emmastraat,43,,,Kampen,8262 EG,93,woonfunctie,Emmastraat 43   8262 EG Kampen
-Boeroestraat,4,,,Delft,2612 GE,98,woonfunctie,Boeroestraat 4   2612 GE Delft
-Saarland,44,,,Purmerend,1448JP,152,woonfunctie,Saarland 44   1448JP Purmerend
-Wim Speelmanplein,1,,,Montfoort,3417EW,115,woonfunctie,Wim Speelmanplein 1   3417EW Montfoort
-Malderburchtstraat,294,F,,Nijmegen,6535NJ,71,woonfunctie,Malderburchtstraat 294 F  6535NJ Nijmegen
-Prunusstraat,16,,,Ochten,4051 GP,77,woonfunctie,Prunusstraat 16   4051 GP Ochten
-Röntgenstraat,28,,,Nijmegen,6533 KV,69,woonfunctie,Röntgenstraat 28   6533 KV Nijmegen
-De Vang,31,,,Mijdrecht,3642 CR,119,woonfunctie,De Vang 31   3642 CR Mijdrecht
-Ringelwikke,17,,,Tegelen,5931SC,141,woonfunctie,Ringelwikke 17   5931SC Tegelen
-Johannes Postkwartier,46,,,Middelburg,4333 EG,130,woonfunctie,Johannes Postkwartier 46   4333 EG Middelburg
-Toutenburg,13,,,Vlissingen,4385 GL,116,woonfunctie,Toutenburg 13   4385 GL Vlissingen
-Schouw,20,,,Urk,8322 ED,147,woonfunctie,Schouw 20   8322 ED Urk
-Eindhovensebaan,5,A,,Nederweert,6031 NB,238,industriefunctie,Eindhovensebaan 5 A  6031 NB Nederweert
-Korte Tiendweg,8,,,Nieuwpoort,2965 AP,109,woonfunctie,Korte Tiendweg 8   2965 AP Nieuwpoort
-De Gooische Tram,208,,,Diemen,1111 RM,131,woonfunctie,De Gooische Tram 208   1111 RM Diemen
-Jacob Barneveldstraat,37,,,Linschoten,3461 GA,128,woonfunctie,Jacob Barneveldstraat 37   3461 GA Linschoten
-Kreeft,6,,,Elst,6662 CS,139,woonfunctie,Kreeft 6   6662 CS Elst
-Johan Willem Frisolaan,32,,,Hoogezand,9602 GH,77,woonfunctie,Johan Willem Frisolaan 32   9602 GH Hoogezand
-Coehoornstraat,65,,,Nijmegen,6521CC,154,woonfunctie,Coehoornstraat 65   6521CC Nijmegen
-Laan der Nederlanden,311,,,Beverwijk,1945 RJ,84,woonfunctie,Laan der Nederlanden 311   1945 RJ Beverwijk
-Tuindersweg,38,,,Etten-Leur,4871 LH,138,woonfunctie,Tuindersweg 38   4871 LH Etten-Leur
-Markt,46,,,Etten-Leur,4875 CE,87,kantoorfunctie,Markt 46   4875 CE Etten-Leur
-Berg,58,,,Nuenen,5671CD,185,woonfunctie,Berg 58   5671CD Nuenen
-Valutaweg,2,,,Varsseveld,7051 EA,613,kantoorfunctie,Valutaweg 2   7051 EA Varsseveld
-Eerste Atjehstraat,92,C,,Amsterdam,1094KR,115,woonfunctie,Eerste Atjehstraat 92 C  1094KR Amsterdam
-Den Tollstraat,18,,,Koudekerk aan den Rijn,2396CG,59,woonfunctie,Den Tollstraat 18   2396CG Koudekerk aan den Rijn
-Zeeweg,143,,,Katwijk,2224 CE,155,woonfunctie,Zeeweg 143   2224 CE Katwijk
-St Hubertseweg,4,,,Haps,5443 ND,650,woonfunctie,St Hubertseweg 4   5443 ND Haps
-Concertstraat,14,,,Apeldoorn,7323 KN,132,woonfunctie,Concertstraat 14   7323 KN Apeldoorn
-Bizetlaan,16,a,,Voorschoten,2253 CM,25,overige gebruiksfunctie,Bizetlaan 16 a  2253 CM Voorschoten
-Lemelerveldseweg,65,,,Lemelerveld,8154 HE,187,industriefunctie,Lemelerveldseweg 65   8154 HE Lemelerveld
-Vitterweg,3,B,,Lunteren,6741 JN,81,woonfunctie,Vitterweg 3 B  6741 JN Lunteren
-Tuunterweg,3,,,Aalten,7122 MA,267,woonfunctie,Tuunterweg 3   7122 MA Aalten
-Villa Waterviolier,29,,,Waalwijk,5146 AL,209,woonfunctie,Villa Waterviolier 29   5146 AL Waalwijk
-van Brakelstraat,20,,,Haaksbergen,7482 VT,103,woonfunctie,van Brakelstraat 20   7482 VT Haaksbergen
-Retiefstraat,9,,3,Amsterdam,1092VV,73,woonfunctie,Retiefstraat 9  3 1092VV Amsterdam
-Lumeijstraat,20,,3,Amsterdam,1056 VX,101,woonfunctie,Lumeijstraat 20  3 1056 VX Amsterdam
-Douglashout,86,,,Eindhoven,5621DE,129,woonfunctie,Douglashout 86   5621DE Eindhoven
-Lambikstraat,17,,,Almere,1336MB,145,woonfunctie,Lambikstraat 17   1336MB Almere
-Zeeburgerkade,328,,,Amsterdam,1019HN,84,woonfunctie,Zeeburgerkade 328   1019HN Amsterdam
-Diamantdijk,20,,,Roosendaal,4706 GT,125,woonfunctie,Diamantdijk 20   4706 GT Roosendaal
-Oostbosch,41,,,Voorschoten,2251 TN,148,woonfunctie,Oostbosch 41   2251 TN Voorschoten
-Beugstraat,56,,,Hoogvliet Rotterdam,3192 GA,131,woonfunctie,Beugstraat 56   3192 GA Hoogvliet Rotterdam
-Hudsonstraat,6,,,Amersfoort,3814 TS,81,woonfunctie,Hudsonstraat 6   3814 TS Amersfoort
-Rosveld,9,,,Rotterdam,3085PP,59,woonfunctie,Rosveld 9   3085PP Rotterdam
-Lange Akker,235,,,Teteringen,4847KM,125,woonfunctie,Lange Akker 235   4847KM Teteringen
-Kriekenpitplein,2,,,Utrecht,3584 EC,456,woonfunctie,Kriekenpitplein 2   3584 EC Utrecht
-Veurstraat,66,,,Rotterdam,3037 BP,70,woonfunctie,Veurstraat 66   3037 BP Rotterdam
-Wietelweg,62,,,Panningen,5981TK,147,woonfunctie,Wietelweg 62   5981TK Panningen
-Willem Bilderdijkhof,148,,,Delft,2624 ZM,70,woonfunctie,Willem Bilderdijkhof 148   2624 ZM Delft
-Kroesmeestersdreef,5,D,,Maastricht,6216PK,90,woonfunctie,Kroesmeestersdreef 5 D  6216PK Maastricht
-Kruidenstraat,57,,,Nijmegen,6515 HP,132,woonfunctie,Kruidenstraat 57   6515 HP Nijmegen
-Thomas Morelaan,54,,,Hoofddorp,2135 WC,124,woonfunctie,Thomas Morelaan 54   2135 WC Hoofddorp
-De Regent,4,,,Eindhoven,5611 HW,135,winkelfunctie,De Regent 4   5611 HW Eindhoven
-Geesterse Broekweg,6,a,,Geesteren,7274GC,98,woonfunctie,Geesterse Broekweg 6 a  7274GC Geesteren
-Zwanenwater,35,,,Amstelveen,1187 LC,110,woonfunctie,Zwanenwater 35   1187 LC Amstelveen
-Verbeekstraat,3,F,,Leiden,2332CA,66,woonfunctie,Verbeekstraat 3 F  2332CA Leiden
-Beemdweide,24,,,Reeuwijk,2811JJ,158,woonfunctie,Beemdweide 24   2811JJ Reeuwijk
-De Eglantier,660,,,Apeldoorn,7329DP,84,woonfunctie,De Eglantier 660   7329DP Apeldoorn
-Perikplein,40,,,Enschede,7512 JC,53,woonfunctie,Perikplein 40   7512 JC Enschede
-Kweepeer,60,,,Boskoop,2771 NW,130,woonfunctie,Kweepeer 60   2771 NW Boskoop
-Hondsneststraat,4,,,Hedel,5321 GT,145,woonfunctie,Hondsneststraat 4   5321 GT Hedel
-Elfde Wijk,40,a,R31,Rheezerveen,7797HH,71,logiesfunctie,Elfde Wijk 40 a R31 7797HH Rheezerveen
-Zutfensestraat,13,,,'s-Gravenhage,2587TL,70,woonfunctie,Zutfensestraat 13   2587TL 's-Gravenhage
-Hofwijckstraat,109,,,Hellevoetsluis,3223 VD,64,woonfunctie,Hofwijckstraat 109   3223 VD Hellevoetsluis
-Joes Kloppenburghof,52,,,Badhoevedorp,1171 AB,84,woonfunctie,Joes Kloppenburghof 52   1171 AB Badhoevedorp
-Koekoeksbloem,25,,,Nieuwleusen,7711ZC,114,woonfunctie,Koekoeksbloem 25   7711ZC Nieuwleusen
-Skilpaed,21,,,Dronryp,9035 AL,105,woonfunctie,Skilpaed 21   9035 AL Dronryp
-Anijszoom,32,,,Voorhout,2215BT,90,woonfunctie,Anijszoom 32   2215BT Voorhout
-Nina Simonehof,21,,,Zaandijk,1544 LW,134,woonfunctie,Nina Simonehof 21   1544 LW Zaandijk
-Bernadettestraat,15,,,Bergen op Zoom,4615 EV,96,woonfunctie,Bernadettestraat 15   4615 EV Bergen op Zoom
-Zwembadweg,37,,85,Sint-Oedenrode,5491TE,95,logiesfunctie,Zwembadweg 37  85 5491TE Sint-Oedenrode
-Landbouwstraat,10,,,Schagen,1741EH,210,woonfunctie,Landbouwstraat 10   1741EH Schagen
-Koggenlaan,9,,,Medemblik,1671 KH,98,woonfunctie,Koggenlaan 9   1671 KH Medemblik
-Leeuwerikstraat,36,,,Fijnaart,4793HE,132,woonfunctie,Leeuwerikstraat 36   4793HE Fijnaart
-Dijklaan,117,T,,Breda,,14,overige gebruiksfunctie,Dijklaan 117 T   Breda
-Koggewaard,89,,,Alkmaar,1824GP,126,woonfunctie,Koggewaard 89   1824GP Alkmaar
-Hoofdweg,135,,,Eelde,9761EE,246,woonfunctie,Hoofdweg 135   9761EE Eelde
-Oudlaan,4,,,Wageningen,6708RC,139,woonfunctie,Oudlaan 4   6708RC Wageningen
-Loosduinenstraat,35,,,Zoetermeer,2729CM,166,woonfunctie,Loosduinenstraat 35   2729CM Zoetermeer
-Spoorstraat,144,c,,Gennep,6591GW,62,woonfunctie,Spoorstraat 144 c  6591GW Gennep
-Kennedylaan,9,,,Andel,4281 KT,164,woonfunctie,Kennedylaan 9   4281 KT Andel
-Middelveld,20,,,Zeeland,5411TK,104,woonfunctie,Middelveld 20   5411TK Zeeland
-Reynbolt van Maeslantstraat,27,,,Maasland,3155 VM,75,woonfunctie,Reynbolt van Maeslantstraat 27   3155 VM Maasland
-Lijmkoker,46,,,Wormer,1531 PA,117,woonfunctie,Lijmkoker 46   1531 PA Wormer
-Jaarbeursboulevard,292,,,Utrecht,3521BC,665,kantoorfunctie,Jaarbeursboulevard 292   3521BC Utrecht
-P.C. Boutensstraat,275,,,Almelo,7606AW,75,woonfunctie,P.C. Boutensstraat 275   7606AW Almelo
-Dennenweg,151,,,Arnhem,6823 MR,120,woonfunctie,Dennenweg 151   6823 MR Arnhem
-Goutumerdyk,25,,,Goutum,9084AC,115,woonfunctie,Goutumerdyk 25   9084AC Goutum
-Borkerstraat,31,,,Klazienaveen,7891SG,148,woonfunctie,Borkerstraat 31   7891SG Klazienaveen
-Rozenstraat,43,,,St. Willebrord,4711GD,90,woonfunctie,Rozenstraat 43   4711GD St. Willebrord
-Caspar Sprokelstraat,5,,,Kerkrade,6461 DZ,-1,,Caspar Sprokelstraat 5   6461 DZ Kerkrade
-Pieter Stuyvesantweg,75,,,Leeuwarden,8937AD,60,woonfunctie,Pieter Stuyvesantweg 75   8937AD Leeuwarden
-Jan Steenlaan,25,,,Stolwijk,2821 VB,79,woonfunctie,Jan Steenlaan 25   2821 VB Stolwijk
-Kinkelenburg,29,,,Veenendaal,3904 HZ,193,woonfunctie,Kinkelenburg 29   3904 HZ Veenendaal
-Bouwmeestersgoed,79,,,Putten,3882KM,161,woonfunctie,Bouwmeestersgoed 79   3882KM Putten
-Ruurd Visserstraat,25,,,Achterveld,3791VV,94,woonfunctie,Ruurd Visserstraat 25   3791VV Achterveld
-Borné,30,,,Zoutelande,4374 DB,73,woonfunctie,Borné 30   4374 DB Zoutelande
-Adriaan van Ostadestraat,147,,,Woerden,3443TM,88,woonfunctie,Adriaan van Ostadestraat 147   3443TM Woerden
-Looierstraat,6,,,Best,5684ZN,124,woonfunctie,Looierstraat 6   5684ZN Best
-Heereweg,210,,017,Groet,1873GD,37,logiesfunctie,Heereweg 210  017 1873GD Groet
-Wijsmullerstraat,11,,H,Amsterdam,1058 JE,58,woonfunctie,Wijsmullerstraat 11  H 1058 JE Amsterdam
-Slotlaan,123,,1,Zeist,3701 GA,112,woonfunctie,Slotlaan 123  1 3701 GA Zeist
-Slotlaan,57,,,Doetinchem,7006HB,87,woonfunctie,Slotlaan 57   7006HB Doetinchem
-Martin Luther Kingstraat,10,,,Eygelshoven,6471XK,148,woonfunctie,Martin Luther Kingstraat 10   6471XK Eygelshoven
-Rodetorenstraat,2,b,,Zutphen,7201DH,109,woonfunctie,Rodetorenstraat 2 b  7201DH Zutphen
-Parallelweg,124,B,,Vlaardingen,3131 DM,72,woonfunctie,Parallelweg 124 B  3131 DM Vlaardingen
-Dubbelmondehof,6,,4,Amsterdam,1069 XX,64,woonfunctie,Dubbelmondehof 6  4 1069 XX Amsterdam
-Tongerseweg,318,C,02,Maastricht,6215 AC,23,woonfunctie,Tongerseweg 318 C 02 6215 AC Maastricht
-Eosstraat,216,,,Amsterdam,1076DR,78,woonfunctie,Eosstraat 216   1076DR Amsterdam
-Osseweid,39,,,Midwoud,1679 GN,133,woonfunctie,Osseweid 39   1679 GN Midwoud
-Genieweg,38,,,Mijdrecht,3641RH,1234,industriefunctie,Genieweg 38   3641RH Mijdrecht
-Eerste Helmersstraat,143,,2,Amsterdam,1054DR,130,woonfunctie,Eerste Helmersstraat 143  2 1054DR Amsterdam
-Eltensestraat,57,,,Duiven,6922JA,225,woonfunctie,Eltensestraat 57   6922JA Duiven
-Dieselstraat,6,,,Hengelo,7553TJ,137,woonfunctie,Dieselstraat 6   7553TJ Hengelo
-Clementinalaan,1,A,,Veldhoven,5507 NE,385,woonfunctie,Clementinalaan 1 A  5507 NE Veldhoven
-Kikkenstein,1204,,,Amsterdam,1104 SN,102,woonfunctie,Kikkenstein 1204   1104 SN Amsterdam
-Asserstraat,28,,,Katwijk,2221 LH,226,woonfunctie,Asserstraat 28   2221 LH Katwijk
-Swifterbantstraat,44,,,Kerk-Avezaath,4012 ES,154,woonfunctie,Swifterbantstraat 44   4012 ES Kerk-Avezaath
-Gemzenstraat,5,,027,Apeldoorn,7315EL,72,woonfunctie,Gemzenstraat 5  027 7315EL Apeldoorn
-Platsmolenweg,44,,,Nuth,6361 EM,132,woonfunctie,Platsmolenweg 44   6361 EM Nuth
-Schoolstraat,30,k,117,Bocholtz,6351EJ,26,woonfunctie,Schoolstraat 30 k 117 6351EJ Bocholtz
-Beckershof,52,,,Meijel,5768 BW,93,woonfunctie,Beckershof 52   5768 BW Meijel
-Zenobiagang,10,,,Zoetermeer,2719 BZ,86,woonfunctie,Zenobiagang 10   2719 BZ Zoetermeer
-César Francklaan,47,,,Heemstede,2102EB,159,woonfunctie,César Francklaan 47   2102EB Heemstede
-Havezathenallee,90,,,Zwolle,8043 RA,136,woonfunctie,Havezathenallee 90   8043 RA Zwolle
-Rhodosdreef,216,,,Utrecht,3562TM,83,woonfunctie,Rhodosdreef 216   3562TM Utrecht
-Enkhuizerzand,3,,,Urk,8321ZK,121,woonfunctie,Enkhuizerzand 3   8321ZK Urk
-Schippersschoolstraat,9,,,Maasbracht,6051CT,144,woonfunctie,Schippersschoolstraat 9   6051CT Maasbracht
-Merelstraat,71,,,Meppel,7944AH,108,woonfunctie,Merelstraat 71   7944AH Meppel
-Erasmusstraat,67,,,Apeldoorn,7316HN,94,woonfunctie,Erasmusstraat 67   7316HN Apeldoorn
-Meerkoetlaan,9,,,Beuningen Gld,6641ZA,135,woonfunctie,Meerkoetlaan 9   6641ZA Beuningen Gld
-Kloosterweg,25,,,Noordgouwe,4317 NE,107,industriefunctie,Kloosterweg 25   4317 NE Noordgouwe
-Coolhofflaan,28,,,Waarde,4414 BK,188,woonfunctie,Coolhofflaan 28   4414 BK Waarde
-Kooimaten,28,f,,Goor,7472 DL,55,industriefunctie,Kooimaten 28 f  7472 DL Goor
-Heerenweg,86,,,IJhorst,7955 PG,404,woonfunctie,Heerenweg 86   7955 PG IJhorst
-Batavenpoort,9,,,Houten,3991JC,125,woonfunctie,Batavenpoort 9   3991JC Houten
-Nieuw Engeland,5,,,Hoogvliet Rotterdam,3193LN,86,woonfunctie,Nieuw Engeland 5   3193LN Hoogvliet Rotterdam
-Zaling,75,,,Papendrecht,3356DJ,49,gezondheidszorgfunctie,Zaling 75   3356DJ Papendrecht
-Familie Van der Leerstraat,61,,,Rotterdam,3075PV,47,woonfunctie,Familie Van der Leerstraat 61   3075PV Rotterdam
-Verlengde Houtrakgracht,337,,,Utrecht,3544EB,80,woonfunctie,Verlengde Houtrakgracht 337   3544EB Utrecht
-Loodsgracht,23,,,Den Helder,1781 KM,177,kantoorfunctie,Loodsgracht 23   1781 KM Den Helder
-September 1944-straat,45,,,Heerlen,6418AW,92,woonfunctie,September 1944-straat 45   6418AW Heerlen
-Karnemelkspad,1,,,Wormerveer,1521 DV,71,woonfunctie,Karnemelkspad 1   1521 DV Wormerveer
-Dubbele Poort,23,,,Hulst,4561BJ,134,woonfunctie,Dubbele Poort 23   4561BJ Hulst
-Westerkaai,46,,,Genemuiden,8281BG,127,woonfunctie,Westerkaai 46   8281BG Genemuiden
-Pastoor Bloemstraat,32,,,Oss,5341TM,86,woonfunctie,Pastoor Bloemstraat 32   5341TM Oss
-Warmoeziershof,18,,,Hendrik-Ido-Ambacht,3342XP,94,woonfunctie,Warmoeziershof 18   3342XP Hendrik-Ido-Ambacht
-Verlengde Scholtenskanaal OZ,60,,,Emmer-Compascuum,7881JT,131,woonfunctie,Verlengde Scholtenskanaal OZ 60   7881JT Emmer-Compascuum
-Stam,77,,,Huizen,1275 CG,142,woonfunctie,Stam 77   1275 CG Huizen
-Napoleonbaan Noord,137,,,Geleen,6163VM,57,woonfunctie,Napoleonbaan Noord 137   6163VM Geleen
-Baden-Powellstraat,207,,,Haarlem,2037 SR,128,woonfunctie,Baden-Powellstraat 207   2037 SR Haarlem
-Sneeuwbesstraat,36,,G008,Hoogeveen,7906 LH,16,overige gebruiksfunctie,Sneeuwbesstraat 36  G008 7906 LH Hoogeveen
-Cornelis Schuytlaan,124,,,Leiden,2324 VC,73,woonfunctie,Cornelis Schuytlaan 124   2324 VC Leiden
-Ameidestraat,18,,,Zoetermeer,2729AT,119,woonfunctie,Ameidestraat 18   2729AT Zoetermeer
-Parallelweg,116,,,Weert,6001HM,67,woonfunctie,Parallelweg 116   6001HM Weert
-Berkenlint,12,,,Limmen,1906 KJ,104,woonfunctie,Berkenlint 12   1906 KJ Limmen
-Lange Schoor,53,B,,Etten-Leur,4873HD,49,woonfunctie,Lange Schoor 53 B  4873HD Etten-Leur
-Sartrezijde,17,,,Zoetermeer,2725PM,104,woonfunctie,Sartrezijde 17   2725PM Zoetermeer
-Marconistraat,63,,,Hoensbroek,6431CB,93,woonfunctie,Marconistraat 63   6431CB Hoensbroek
-Gevangenpoortsteeg,3,,,Edam,1135 AD,205,bijeenkomstfunctie,Gevangenpoortsteeg 3   1135 AD Edam
-Tanzanietdijk,28,,,Roosendaal,4706TE,239,woonfunctie,Tanzanietdijk 28   4706TE Roosendaal
-Van Oldenbarneveltstraat,525,,,Nijkerk,3862SR,98,woonfunctie,Van Oldenbarneveltstraat 525   3862SR Nijkerk
-Beekhof,21,,,Prinsenbeek,4841 MB,165,woonfunctie,Beekhof 21   4841 MB Prinsenbeek
-Getfertsingel,208,,,Enschede,7513 GG,186,woonfunctie,Getfertsingel 208   7513 GG Enschede
-Wieldraijer,1,,,Peize,9321KJ,137,woonfunctie,Wieldraijer 1   9321KJ Peize
-Hogehilweg,11,K,60,Amsterdam,1101 CA,57,woonfunctie,Hogehilweg 11 K 60 1101 CA Amsterdam
-Ravelijn,1,,,Zaltbommel,5301 DK,127,woonfunctie,Ravelijn 1   5301 DK Zaltbommel
-Papesteeg,41,,,Tiel,4001WB,119,woonfunctie,Papesteeg 41   4001WB Tiel
-Potgieterstraat,28,,,Heemskerk,1962 GT,79,woonfunctie,Potgieterstraat 28   1962 GT Heemskerk
-Prinses Marijkelaan,23,,4,Zeist,3708DA,69,woonfunctie,Prinses Marijkelaan 23  4 3708DA Zeist
-Mina Wigerink-Lezerstraat,12,,,Arnhem,6836 RV,95,woonfunctie,Mina Wigerink-Lezerstraat 12   6836 RV Arnhem
-Zijpe,31,,,Lelystad,8244 BV,130,woonfunctie,Zijpe 31   8244 BV Lelystad
-Goldhoorn,3,,,Oostwold,9682XL,273,woonfunctie,Goldhoorn 3   9682XL Oostwold
-Zandstraat,61,,,Opijnen,4184EH,177,woonfunctie,Zandstraat 61   4184EH Opijnen
-Helios,9,,,Hoogeveen,7904 HA,103,woonfunctie,Helios 9   7904 HA Hoogeveen
-Vondelstraat,28,,,Doetinchem,7002 AR,70,woonfunctie,Vondelstraat 28   7002 AR Doetinchem
-Burgemeester de Wijslaan,35,K,21,Brummen,6971CC,35,woonfunctie,Burgemeester de Wijslaan 35 K 21 6971CC Brummen
-Hoogevoort,22,,,Castricum,1901AS,90,woonfunctie,Hoogevoort 22   1901AS Castricum
-Sawahstraat,26,,,Purmerend,1448BC,115,woonfunctie,Sawahstraat 26   1448BC Purmerend
-Trechterbeker,16,,,Borger,9531 PA,134,woonfunctie,Trechterbeker 16   9531 PA Borger
-Nieuwe Bouwlingstraat,75,,,Oosterhout,4901KH,71,woonfunctie,Nieuwe Bouwlingstraat 75   4901KH Oosterhout
-Spaaklaan,159,,,Utrecht,3527SG,78,woonfunctie,Spaaklaan 159   3527SG Utrecht
-Brandts Buyspark,59,,,Deventer,7425GG,103,woonfunctie,Brandts Buyspark 59   7425GG Deventer
-Opslach,2,,,Dronryp,9035EE,233,overige gebruiksfunctie,Opslach 2   9035EE Dronryp
-IJselstraat,32,C,,Amsterdam,1078CJ,80,woonfunctie,IJselstraat 32 C  1078CJ Amsterdam
-1e Middellandstraat,124,,01,Rotterdam,3021BJ,66,woonfunctie,1e Middellandstraat 124  01 3021BJ Rotterdam
-Parkweg,8,M,,'s-Gravenhage,2585 JJ,18,overige gebruiksfunctie,Parkweg 8 M  2585 JJ 's-Gravenhage
-Sumatrastraat,5,,,Vlaardingen,3131 XK,81,woonfunctie,Sumatrastraat 5   3131 XK Vlaardingen
-Platinum,23,,,Arnhem,6846 PE,217,woonfunctie,Platinum 23   6846 PE Arnhem
-Dollarhof,13,,,Valkenswaard,5551DA,181,woonfunctie,Dollarhof 13   5551DA Valkenswaard
-Middeldiepstraat,81,,,Sliedrecht,3361VR,92,woonfunctie,Middeldiepstraat 81   3361VR Sliedrecht
-Rentmeesterhof,3,,,Tilburg,5046MZ,118,woonfunctie,Rentmeesterhof 3   5046MZ Tilburg
-Ringovenstraat,27,B,6,Panningen,5981AK,94,woonfunctie,Ringovenstraat 27 B 6 5981AK Panningen
-van Goyenstraat,12,C,,Oud-Beijerland,3262VK,19,overige gebruiksfunctie,van Goyenstraat 12 C  3262VK Oud-Beijerland
-Sluisakker,25,,,Raamsdonk,4944BT,140,woonfunctie,Sluisakker 25   4944BT Raamsdonk
-Blankenstraat,153,C,,Amsterdam,1018RW,70,woonfunctie,Blankenstraat 153 C  1018RW Amsterdam
-Voergang,176,,,Drachten,9205 AT,117,woonfunctie,Voergang 176   9205 AT Drachten
-Herengracht,565,B,,Amsterdam,1017 CD,140,woonfunctie,Herengracht 565 B  1017 CD Amsterdam
-Zandlaan,25,A,,Ede,6717 LN,1253,sportfunctie,Zandlaan 25 A  6717 LN Ede
-Bartholomeus Everardus Molen,42,,,Rotterdam,3063 PA,88,woonfunctie,Bartholomeus Everardus Molen 42   3063 PA Rotterdam
-Loet,8,,,Lekkerkerk,2941 LB,73,woonfunctie,Loet 8   2941 LB Lekkerkerk
-Adelaarplein,21,,,Helmond,5702NH,74,woonfunctie,Adelaarplein 21   5702NH Helmond
-Juno,159,,,Elst,6661JB,100,woonfunctie,Juno 159   6661JB Elst
-Helgoland,14,,,Volendam,1132NE,67,woonfunctie,Helgoland 14   1132NE Volendam
-Frits Bakershof,12,,,Nuenen,5674 XW,110,woonfunctie,Frits Bakershof 12   5674 XW Nuenen
-De Korenbeurs,58,,,Veenendaal,3901DX,113,woonfunctie,De Korenbeurs 58   3901DX Veenendaal
-Hulckesteijn,3,,0309,Nijkerk,3861MZ,45,logiesfunctie,Hulckesteijn 3  0309 3861MZ Nijkerk
-Tijnmuiden,51,,,Amsterdam,1046 AK,155,overige gebruiksfunctie,Tijnmuiden 51   1046 AK Amsterdam
-Roerdomplaan,150,,,Hoogeveen,7905 EK,154,woonfunctie,Roerdomplaan 150   7905 EK Hoogeveen
-Kleine Beer,99,,,Krommenie,1562 VG,105,woonfunctie,Kleine Beer 99   1562 VG Krommenie
-Torenstraat,10,,,Sambeek,5836AM,128,woonfunctie,Torenstraat 10   5836AM Sambeek
-Heggeroosweide,5,,,Woerden,3448 ZC,92,woonfunctie,Heggeroosweide 5   3448 ZC Woerden
-Erica,12,D,,Dordrecht,3317HG,17,overige gebruiksfunctie,Erica 12 D  3317HG Dordrecht
-Haersolteweg,17,G,159,Dalfsen,7722SE,78,logiesfunctie,Haersolteweg 17 G 159 7722SE Dalfsen
-Wilhelminastraat,129,,,Hoensbroek,6431XV,143,woonfunctie,Wilhelminastraat 129   6431XV Hoensbroek
-Buizerdstraat,28,,,Putten,3882 HR,119,woonfunctie,Buizerdstraat 28   3882 HR Putten
-Vondelstraat,90,,,'s-Gravenhage,2513 EW,91,woonfunctie,Vondelstraat 90   2513 EW 's-Gravenhage
-Christiaan Geurtsweg,11,,G1,Apeldoorn,7335JV,37,industriefunctie,Christiaan Geurtsweg 11  G1 7335JV Apeldoorn
-Waterfront,55,,,Dronten,8253 ZA,145,woonfunctie,Waterfront 55   8253 ZA Dronten
-De Binderij,67,Y,,Almere,1321EC,74,woonfunctie,De Binderij 67 Y  1321EC Almere
-Waterstraat,47,a,,Zutphen,7201 HM,50,woonfunctie,Waterstraat 47 a  7201 HM Zutphen
-Wim Sonneveldstraat,16,,,Arnhem,6836 MC,138,woonfunctie,Wim Sonneveldstraat 16   6836 MC Arnhem
-Zuidereinde,160,,,'s-Graveland,1243KN,101,woonfunctie,Zuidereinde 160   1243KN 's-Graveland
-Willy Sluiterweg,1,,,Zwijndrecht,3331VS,192,woonfunctie,Willy Sluiterweg 1   3331VS Zwijndrecht
-Jan Darkennisstraat,16,,,Breda,4827PH,100,woonfunctie,Jan Darkennisstraat 16   4827PH Breda
-Godfried van Seijstlaan,27,C,5,Zeist,3703 BR,120,woonfunctie,Godfried van Seijstlaan 27 C 5 3703 BR Zeist
-Oosterstraat,53,,,Breda,4812 VB,39,woonfunctie,Oosterstraat 53   4812 VB Breda
-Dr. Benthemstraat,65,,,Enschede,7514 CL,241,woonfunctie,Dr. Benthemstraat 65   7514 CL Enschede
-Raaltestraat,32,,,Tilburg,5035CB,96,woonfunctie,Raaltestraat 32   5035CB Tilburg
-Hans Lodeizenstraat,73,,,'s-Gravenhage,2548EN,94,woonfunctie,Hans Lodeizenstraat 73   2548EN 's-Gravenhage
-Korenbloem,14,,,Oudenhoorn,3227BB,131,woonfunctie,Korenbloem 14   3227BB Oudenhoorn
-Irene Vorrinkstraat,55,,,Culemborg,4105 JA,141,woonfunctie,Irene Vorrinkstraat 55   4105 JA Culemborg
-Primulastraat,5,G,,Drunen,5151TR,16,overige gebruiksfunctie,Primulastraat 5 G  5151TR Drunen
-Loopuytpark,1,,,Julianadorp,1787 AD,137,woonfunctie,Loopuytpark 1   1787 AD Julianadorp
-Turfstreek,182,,,Soest,3766 HZ,87,woonfunctie,Turfstreek 182   3766 HZ Soest
-Hackfortstraat,11,,,Nijmegen,6535 PM,78,woonfunctie,Hackfortstraat 11   6535 PM Nijmegen
-Oosterstreek,3,,,Oosterstreek,8388 NA,95,industriefunctie,Oosterstreek 3   8388 NA Oosterstreek
-Tsjalk,2,,,Warns,8721 EN,5716,industriefunctie,Tsjalk 2   8721 EN Warns
-Papaverstraat,2,D,,Arnhem,6832 BA,18,overige gebruiksfunctie,Papaverstraat 2 D  6832 BA Arnhem
-Weijen,10,,,Nistelrode,5388 HN,159,woonfunctie,Weijen 10   5388 HN Nistelrode
-Paterswoldseweg,55,d,,Groningen,9727 BA,24,woonfunctie,Paterswoldseweg 55 d  9727 BA Groningen
-Egelantier,237,a,,Hellevoetsluis,3222VJ,44,woonfunctie,Egelantier 237 a  3222VJ Hellevoetsluis
-Stroodorp,26,,,Kamperland,4493PN,149,woonfunctie,Stroodorp 26   4493PN Kamperland
-Gastenhuis,5,,,Heeswijk-Dinther,5473CV,85,woonfunctie,Gastenhuis 5   5473CV Heeswijk-Dinther
-Weideweg,142,,,Hengelo,7556AE,142,woonfunctie,Weideweg 142   7556AE Hengelo
-Vincent van Goghlaan,62,E,,Helmond,,16,overige gebruiksfunctie,Vincent van Goghlaan 62 E   Helmond
-Van de Wetering-erf,62,,,Heesch,5384NV,189,woonfunctie,Van de Wetering-erf 62   5384NV Heesch
-Nieuwe Veenendaalseweg,228,N,,Rhenen,3911 MS,70,logiesfunctie,Nieuwe Veenendaalseweg 228 N  3911 MS Rhenen
-Boomkamp,25,A,,Harderwijk,3848ZA,188,woonfunctie,Boomkamp 25 A  3848ZA Harderwijk
-Kettelerstraat,8,,,Nijmegen,6532WE,70,woonfunctie,Kettelerstraat 8   6532WE Nijmegen
-Heveapad,5,a,,Hoogezand,9601KR,53,woonfunctie,Heveapad 5 a  9601KR Hoogezand
-Saffraanstraat,1,,,Hoogvliet Rotterdam,3193 XH,118,woonfunctie,Saffraanstraat 1   3193 XH Hoogvliet Rotterdam
-Wichinksweg,43,,,Lettele,7434RV,129,woonfunctie,Wichinksweg 43   7434RV Lettele
-Verhulstlaan,31,,,'s-Gravenzande,2692 BN,120,woonfunctie,Verhulstlaan 31   2692 BN 's-Gravenzande
-Zijdewindestraat,21,A,,Rotterdam,3014NJ,96,woonfunctie,Zijdewindestraat 21 A  3014NJ Rotterdam
-Prinses Beatrixlaan,43,,,Maasland,3155TH,87,woonfunctie,Prinses Beatrixlaan 43   3155TH Maasland
-Rozengaard,64,,,Boxtel,5283 GH,137,woonfunctie,Rozengaard 64   5283 GH Boxtel
-Wilderen,75,,,Breda,4817 VA,117,woonfunctie,Wilderen 75   4817 VA Breda
-Muiderwaard,743,,,Alkmaar,1824XR,85,woonfunctie,Muiderwaard 743   1824XR Alkmaar
-Vrydemalaan,216,,,Groningen,9713 WT,28,woonfunctie,Vrydemalaan 216   9713 WT Groningen
-Stadhuisplein,30,J,02,Rotterdam,3012 AS,18,onderwijsfunctie,Stadhuisplein 30 J 02 3012 AS Rotterdam
-Oudestraat,134,E,,Kampen,8261CX,64,woonfunctie,Oudestraat 134 E  8261CX Kampen
-Biezenstraat,1,B,,Oudewater,,20,overige gebruiksfunctie,Biezenstraat 1 B   Oudewater
-Hiraistraat,9,B,42,Amsterdam,1101 DA,40,woonfunctie,Hiraistraat 9 B 42 1101 DA Amsterdam
+Prins Alexanderweg,2,,21,Huis ter Heide,3712 AA,47,woonfunctie,Prins Alexanderweg 2  21 3712 AA Huis ter Heide
+Olivierstraat,6,,,Axel,4571 AZ,94,woonfunctie,Olivierstraat 6   4571 AZ Axel
+Californiëweg,267,,,De Koog,1796PH,51,logiesfunctie,Californiëweg 267   1796PH De Koog
+Wolphaertsbocht,75,C,,Rotterdam,3082 AE,87,woonfunctie,Wolphaertsbocht 75 C  3082 AE Rotterdam
+Molenweg,18,,,Schore,4423PD,147,woonfunctie,Molenweg 18   4423PD Schore
+Dorpsdijk,113,d,,Rhoon,3161 CA,75,woonfunctie,Dorpsdijk 113 d  3161 CA Rhoon
+Blokmoeren,52,,,Breda,4824JP,116,woonfunctie,Blokmoeren 52   4824JP Breda
+Populierenlaan,19,,,Bosch en Duin,3735LG,330,woonfunctie,Populierenlaan 19   3735LG Bosch en Duin
+Leilat,93,,,Hooglanderveen,3829ET,113,woonfunctie,Leilat 93   3829ET Hooglanderveen
+Arkenpark Mur,37,,,Vinkeveen,3645EH,-1,,Arkenpark Mur 37   3645EH Vinkeveen
+De Bolder,55,,,Drachten,9206AP,556,industriefunctie,De Bolder 55   9206AP Drachten
+Leopoldstraat,135,,,Alkmaar,1822 KE,102,woonfunctie,Leopoldstraat 135   1822 KE Alkmaar
+Verlengde Frederikstraat,20,,,Groningen,9724NE,66,woonfunctie,Verlengde Frederikstraat 20   9724NE Groningen
+Bokkerijder,2,,,Bergeijk,5571MX,594,industriefunctie,Bokkerijder 2   5571MX Bergeijk
+Maria Margaretalaan,26,,,Abbenes,2157NN,92,woonfunctie,Maria Margaretalaan 26   2157NN Abbenes
+Forel,308,,,Amersfoort,3824LH,99,woonfunctie,Forel 308   3824LH Amersfoort
+Kuinderweg,36,,,Luttelgeest,8315PW,897,industriefunctie,Kuinderweg 36   8315PW Luttelgeest
+Winterakoniet,43,,,Leeuwarden,8935JN,133,woonfunctie,Winterakoniet 43   8935JN Leeuwarden
+Inlaagpolder,5,,,Spaarndam,2064KN,234,woonfunctie,Inlaagpolder 5   2064KN Spaarndam
+Bourgondiëstraat,14,,,Alkmaar,1827 BA,73,woonfunctie,Bourgondiëstraat 14   1827 BA Alkmaar
+van Naeltwijckstraat,63,,,Voorburg,2274 NW,74,woonfunctie,van Naeltwijckstraat 63   2274 NW Voorburg
+Compagnonsstrjitte,31,,,Gorredijk,8401RL,77,woonfunctie,Compagnonsstrjitte 31   8401RL Gorredijk
+Buitendams,174,,,Hardinxveld-Giessendam,3371 BP,151,woonfunctie,Buitendams 174   3371 BP Hardinxveld-Giessendam
+Stephensonstraat,78,,,Haarlem,2014 KE,113,woonfunctie,Stephensonstraat 78   2014 KE Haarlem
+Kometenlaan,56,,G005,Hoogeveen,7904 CN,15,overige gebruiksfunctie,Kometenlaan 56  G005 7904 CN Hoogeveen
+Albrecht Thaerlaan,18,,,Utrecht,3571 EB,104,woonfunctie,Albrecht Thaerlaan 18   3571 EB Utrecht
+Hunenborglaan,85,,GR4,Oldenzaal,7576 XN,16,overige gebruiksfunctie,Hunenborglaan 85  GR4 7576 XN Oldenzaal
+Broedershof,93,,,Veghel,5462EG,87,woonfunctie,Broedershof 93   5462EG Veghel
+De Sitterlaan,1,,,Veldhoven,5505AA,293,woonfunctie,De Sitterlaan 1   5505AA Veldhoven
+Lisdodde,40,,,Nijverdal,7443NG,136,woonfunctie,Lisdodde 40   7443NG Nijverdal
+Veldweg,22,,792,Nooitgedacht,9449 PW,82,logiesfunctie,Veldweg 22  792 9449 PW Nooitgedacht
+Klappenburgstraat,3,p,,Bemmel,6681 XN,90,woonfunctie,Klappenburgstraat 3 p  6681 XN Bemmel
+Oranjestraat,38,,,Hardinxveld-Giessendam,3373AL,145,woonfunctie,Oranjestraat 38   3373AL Hardinxveld-Giessendam
+Jan van Goyenstraat,6,,,Dordrecht,3314HB,119,woonfunctie,Jan van Goyenstraat 6   3314HB Dordrecht
+Prins Hendriklaan,376,B,016,Brunssum,6443 AE,27,kantoorfunctie,Prins Hendriklaan 376 B 016 6443 AE Brunssum
+Aert van Trichtweg,41,,,Maastricht,6214 PR,72,woonfunctie,Aert van Trichtweg 41   6214 PR Maastricht
+Hanendorperweg,102,,005,Emst,8166JJ,-1,,Hanendorperweg 102  005 8166JJ Emst
+Overhoff,7,,,Renkum,6871 CZ,108,woonfunctie,Overhoff 7   6871 CZ Renkum
+Karbouwstraat,9,,,Nijmegen,6532 AW,73,woonfunctie,Karbouwstraat 9   6532 AW Nijmegen
+Schilperoortstraat,85,A,,Rotterdam,3082ST,52,woonfunctie,Schilperoortstraat 85 A  3082ST Rotterdam
+Kersenbongerd,15,,,Huissen,6852 BJ,160,woonfunctie,Kersenbongerd 15   6852 BJ Huissen
+Huys de Merwede,105,,,Papendrecht,3356 AK,17,overige gebruiksfunctie,Huys de Merwede 105   3356 AK Papendrecht
+Jan Maurits van Nassaustraat,43,,,Tilburg,5018 CJ,115,woonfunctie,Jan Maurits van Nassaustraat 43   5018 CJ Tilburg
+Van Oost-Frieslandstraat,35,,,Schijndel,5482 GT,107,woonfunctie,Van Oost-Frieslandstraat 35   5482 GT Schijndel
+Kroonse Wal,45,,,Arnhem,6844 GW,61,woonfunctie,Kroonse Wal 45   6844 GW Arnhem
+Apollo,15,,,Elst,6661JW,171,woonfunctie,Apollo 15   6661JW Elst
+Torenstraat,152,,,Wildervank,9648CX,89,woonfunctie,Torenstraat 152   9648CX Wildervank
+Schubertkade,13,,,Alkmaar,1817 GA,131,woonfunctie,Schubertkade 13   1817 GA Alkmaar
+Klaas Duitstraat,20,,,Den Helder,1782VR,17,overige gebruiksfunctie,Klaas Duitstraat 20   1782VR Den Helder
+Burgemeester Dekkingstraat,1,k,014,Bleskensgraaf ca,2971 AC,44,woonfunctie,Burgemeester Dekkingstraat 1 k 014 2971 AC Bleskensgraaf ca
+Kluut,26,,,Hoorn,1628CB,103,woonfunctie,Kluut 26   1628CB Hoorn
+Sumatrastraat,27,,,Haarlem,2022 XK,94,woonfunctie,Sumatrastraat 27   2022 XK Haarlem
+Patersweg,63,,,Dordrecht,3314HT,38,woonfunctie,Patersweg 63   3314HT Dordrecht
+Veldweg,22,,551,Nooitgedacht,9449 PW,82,logiesfunctie,Veldweg 22  551 9449 PW Nooitgedacht
+Regentessehof,37,,,Oegstgeest,2341LX,14,overige gebruiksfunctie,Regentessehof 37   2341LX Oegstgeest
+Balfortstraat,8,A,,Breda,4811 RT,63,woonfunctie,Balfortstraat 8 A  4811 RT Breda
+Beneluxlaan,75,,,Enschede,7543XM,77,woonfunctie,Beneluxlaan 75   7543XM Enschede
+Doelenstraat,4,a,,IJsselstein,3401 DV,91,woonfunctie,Doelenstraat 4 a  3401 DV IJsselstein
+Poortersdreef,133,,,Amersfoort,3824DM,102,woonfunctie,Poortersdreef 133   3824DM Amersfoort
+Westersingel,61,,01,Veenendaal,3904 CM,63,woonfunctie,Westersingel 61  01 3904 CM Veenendaal
+Muiderzandpad,11,,,Diemen,1111RW,166,woonfunctie,Muiderzandpad 11   1111RW Diemen
+Bestevaer,24,,,Voorschoten,2253XX,116,woonfunctie,Bestevaer 24   2253XX Voorschoten
+Batenburglaan,59,,,Tilburg,5043AJ,113,woonfunctie,Batenburglaan 59   5043AJ Tilburg
+St.Lambertusweg,48,A,,Gemonde,5291 AC,832,industriefunctie,St.Lambertusweg 48 A  5291 AC Gemonde
+De Savornin Lohmanhof,36,,,Wezep,8091XT,159,woonfunctie,De Savornin Lohmanhof 36   8091XT Wezep
+Heuvelstraat,40,,,Volkel,5408 AD,106,woonfunctie,Heuvelstraat 40   5408 AD Volkel
+Zaaiersweg,41,,H,Amsterdam,1097SN,78,woonfunctie,Zaaiersweg 41  H 1097SN Amsterdam
+Ruimersdijk,31,,,Rotterdam,3079 HJ,18,overige gebruiksfunctie,Ruimersdijk 31   3079 HJ Rotterdam
+Koningin Wilhelminaweg,76,,,Gouda,2802 HR,81,woonfunctie,Koningin Wilhelminaweg 76   2802 HR Gouda
+Jacob de Bijestraat,7,,,Achterveld,3791 AS,146,woonfunctie,Jacob de Bijestraat 7   3791 AS Achterveld
+Ruysdaelstraat,38,,,Sliedrecht,3362 XP,41,woonfunctie,Ruysdaelstraat 38   3362 XP Sliedrecht
+Hoofdweg,289,,1,Amsterdam,1057 CZ,55,woonfunctie,Hoofdweg 289  1 1057 CZ Amsterdam
+Burgemeester Lambertstr,14,,,Eijsden,6245 HE,122,woonfunctie,Burgemeester Lambertstr 14   6245 HE Eijsden
+Piriet,16,,,Heerhugowaard,1703BL,128,woonfunctie,Piriet 16   1703BL Heerhugowaard
+Hoofdstraat,151,A,,Hoensbroek,6432 GB,62,woonfunctie,Hoofdstraat 151 A  6432 GB Hoensbroek
+Ptolemaeusstraat,36,,G11,Apeldoorn,7323GH,18,overige gebruiksfunctie,Ptolemaeusstraat 36  G11 7323GH Apeldoorn
+Rozenstraat,205,B,,Amsterdam,1016 NS,89,woonfunctie,Rozenstraat 205 B  1016 NS Amsterdam
+Westerpark,37,,,Rijnsburg,2231DK,100,woonfunctie,Westerpark 37   2231DK Rijnsburg
+Mariniersweg,3,A,,Rotterdam,3011NB,99,woonfunctie,Mariniersweg 3 A  3011NB Rotterdam
+Anatole Franceplaats,262,,,Rotterdam,3069 AG,68,woonfunctie,Anatole Franceplaats 262   3069 AG Rotterdam
+Absalon,18,,,Limmen,1906 JA,195,woonfunctie,Absalon 18   1906 JA Limmen
+Dokter Bloemenlaan,11,,70,Tilburg,5022KX,45,woonfunctie,Dokter Bloemenlaan 11  70 5022KX Tilburg
+Jan van Boendalelaan,11,,,Eindhoven,5615KD,131,woonfunctie,Jan van Boendalelaan 11   5615KD Eindhoven
+Noorderstraat,108,,,Alkmaar,1823 CS,96,woonfunctie,Noorderstraat 108   1823 CS Alkmaar
+Menanderstraat,64,,,Rotterdam,3076 AG,60,woonfunctie,Menanderstraat 64   3076 AG Rotterdam
+Willem Schuylenburglaan,3,,,Utrecht,3571 SB,234,onderwijsfunctie,Willem Schuylenburglaan 3   3571 SB Utrecht
+Händellaan,491,,,Zwolle,8031ET,46,woonfunctie,Händellaan 491   8031ET Zwolle
+Grote Oever,126,,,Meppel,7941 BJ,80,woonfunctie,Grote Oever 126   7941 BJ Meppel
+S Blaupot ten Catestr,114,,,Zaandam,1508VC,71,woonfunctie,S Blaupot ten Catestr 114   1508VC Zaandam
+Dorpsstraat,65,,,Loosbroek,5472PJ,242,woonfunctie,Dorpsstraat 65   5472PJ Loosbroek
+Livingstonelaan,906,,,Utrecht,3526JM,93,woonfunctie,Livingstonelaan 906   3526JM Utrecht
+Polluxstraat,200,,,Groningen,9742 CE,79,woonfunctie,Polluxstraat 200   9742 CE Groningen
+Leeuwerikstraat,11,,,Arnhem,6822KV,125,woonfunctie,Leeuwerikstraat 11   6822KV Arnhem
+Eiberstraat,119,,,Velp,6883EG,77,woonfunctie,Eiberstraat 119   6883EG Velp
+Duizendbladstraat,15,,,Goes,4461MN,142,woonfunctie,Duizendbladstraat 15   4461MN Goes
+Groningensingel,523,,,Arnhem,6835 EV,53,woonfunctie,Groningensingel 523   6835 EV Arnhem
+Park de Kempervennen,11,,,Westerhoven,5563VC,49,logiesfunctie,Park de Kempervennen 11   5563VC Westerhoven
+Pyrolalaan,52,,,'s-Gravenhage,2554 HG,87,woonfunctie,Pyrolalaan 52   2554 HG 's-Gravenhage
+Dunningehof,34,,,Emmen,7824 AW,102,woonfunctie,Dunningehof 34   7824 AW Emmen
+Steenstraat,5,,,Eindhoven,5612 PE,108,woonfunctie,Steenstraat 5   5612 PE Eindhoven
+Zakedijkje,24,,,Bergen (NH),1862 HB,134,woonfunctie,Zakedijkje 24   1862 HB Bergen (NH)
+Willem de Zwijgerlaan,40,,,Axel,4571GV,108,woonfunctie,Willem de Zwijgerlaan 40   4571GV Axel
+Scheveningseweg,60,B,,'s-Gravenhage,2517KW,95,woonfunctie,Scheveningseweg 60 B  2517KW 's-Gravenhage
+Oude Kruisweg,36,,,Cruquius,2142EG,329,bijeenkomstfunctie,Oude Kruisweg 36   2142EG Cruquius
+Wagenbrugge,16,,,Sneek,8604BE,167,woonfunctie,Wagenbrugge 16   8604BE Sneek
+Terborgh,37,,,Weert,6002 XL,110,woonfunctie,Terborgh 37   6002 XL Weert
+Generaal van Plettenbergpad,21,,,Eindhoven,5623 KH,102,woonfunctie,Generaal van Plettenbergpad 21   5623 KH Eindhoven
+West-Kruiskade,54,,K144,Rotterdam,3014 AW,25,gezondheidszorgfunctie,West-Kruiskade 54  K144 3014 AW Rotterdam
+Kraanbaan,13,,,Ridderkerk,2987 WB,162,woonfunctie,Kraanbaan 13   2987 WB Ridderkerk
+Reinkenstraat,50,,,'s-Gravenhage,2517CW,120,winkelfunctie,Reinkenstraat 50   2517CW 's-Gravenhage
+Albert Schweitzersingel,210,,,Amersfoort,3822BX,74,woonfunctie,Albert Schweitzersingel 210   3822BX Amersfoort
+Wyandottestraat,14,,,Amsterdam,1109BT,82,woonfunctie,Wyandottestraat 14   1109BT Amsterdam
+Buitendijklaan,74,,,Leiderdorp,2353 VR,99,woonfunctie,Buitendijklaan 74   2353 VR Leiderdorp
+Ewijkseweg,14,,,Overasselt,6611AG,146,woonfunctie,Ewijkseweg 14   6611AG Overasselt
+Burgemeester vd Goeslaan,100,,,De Lier,2678 LT,61,woonfunctie,Burgemeester vd Goeslaan 100   2678 LT De Lier
+Wiringherlant,4,,,Hippolytushoef,1777NX,87,logiesfunctie,Wiringherlant 4   1777NX Hippolytushoef
+Louweshoek,28,,,Amsterdam,1066DN,58,woonfunctie,Louweshoek 28   1066DN Amsterdam
+Togostraat,35,,,Delft,2622EX,93,woonfunctie,Togostraat 35   2622EX Delft
+Twentestraat,222,,,Tilburg,5018BG,112,woonfunctie,Twentestraat 222   5018BG Tilburg
+Europalaan,212,C,,Enschede,,15,overige gebruiksfunctie,Europalaan 212 C   Enschede
+De Oude Klarenbeek,63,,,Ugchelen,7339EZ,139,woonfunctie,De Oude Klarenbeek 63   7339EZ Ugchelen
+Aldenhof,2106,,,Nijmegen,6537BN,106,woonfunctie,Aldenhof 2106   6537BN Nijmegen
+Karveelstraat,39,,,Zaandam,1503 BD,53,woonfunctie,Karveelstraat 39   1503 BD Zaandam
+Stalpaert van der Wieleweg,52,,,Delft,2612 SX,69,woonfunctie,Stalpaert van der Wieleweg 52   2612 SX Delft
+Mesdagstraat,82,,,'s-Gravenhage,2596 XZ,96,woonfunctie,Mesdagstraat 82   2596 XZ 's-Gravenhage
+Schovenhorstweide,27,,,Helmond,5709SG,172,woonfunctie,Schovenhorstweide 27   5709SG Helmond
+Goosse van der Windstraat,19,,,Rotterdam,3062XM,179,woonfunctie,Goosse van der Windstraat 19   3062XM Rotterdam
+Dr. van Campenstraat,3,,,Breda,4811 RH,130,woonfunctie,Dr. van Campenstraat 3   4811 RH Breda
+Vellerselaan,26,,,Barneveld,3772 PP,179,woonfunctie,Vellerselaan 26   3772 PP Barneveld
+Toren,38,,,Nederweert,6031 GE,131,woonfunctie,Toren 38   6031 GE Nederweert
+Van Sillevoldtstraat,14,,,Wassenaar,2245VM,71,woonfunctie,Van Sillevoldtstraat 14   2245VM Wassenaar
+Lisztplein,15,,,Oud-Beijerland,3261 JS,136,woonfunctie,Lisztplein 15   3261 JS Oud-Beijerland
+Herenweg,204,,,Noordwijkerhout,2211VC,106,woonfunctie,Herenweg 204   2211VC Noordwijkerhout
+St.Joannesstraat,15,,,Kerkrade,6465 BG,85,woonfunctie,St.Joannesstraat 15   6465 BG Kerkrade
+Kerkpad,13,,,Warmenhuizen,1749CW,136,woonfunctie,Kerkpad 13   1749CW Warmenhuizen
+De Weem,302,,,Nijmegen,6534 VE,71,woonfunctie,De Weem 302   6534 VE Nijmegen
+Willem Frederikstraat,45,,,Vlaardingen,3136 BP,119,woonfunctie,Willem Frederikstraat 45   3136 BP Vlaardingen
+Essenweg,3,,,de Lutte,7587 PT,658,industriefunctie,Essenweg 3   7587 PT de Lutte
+Smellekenlaan,48,,,Venray,5804 VG,90,woonfunctie,Smellekenlaan 48   5804 VG Venray
+Karel Doormanweg,17,,,Nijverdal,7441 GW,104,woonfunctie,Karel Doormanweg 17   7441 GW Nijverdal
+Raadhuisstraat,76,,,Hulsberg,6336 VM,135,woonfunctie,Raadhuisstraat 76   6336 VM Hulsberg
+Vinkelse Slagen,2,,,Vinkel,5381EA,350,woonfunctie,Vinkelse Slagen 2   5381EA Vinkel
+Duifstraat,57,,,Utrecht,3514 EP,145,woonfunctie,Duifstraat 57   3514 EP Utrecht
+Moerbeigaarde,22,,,Zoetermeer,2723AE,118,woonfunctie,Moerbeigaarde 22   2723AE Zoetermeer
+Ridderinkweg,1,a,,Arriën,7735KG,44,industriefunctie,Ridderinkweg 1 a  7735KG Arriën
+Poelkade,46,,,'s-Gravenzande,2691ME,255,woonfunctie,Poelkade 46   2691ME 's-Gravenzande
+De Helling,4,,,Alblasserdam,,232,overige gebruiksfunctie,De Helling 4    Alblasserdam
+Meander,30,,,Bemmel,6681TD,136,woonfunctie,Meander 30   6681TD Bemmel
+Moerkensbeemden,33,,,Helmond,5706 NV,265,woonfunctie,Moerkensbeemden 33   5706 NV Helmond
+Philitelaan,74,,,Eindhoven,5617AN,58,woonfunctie,Philitelaan 74   5617AN Eindhoven
+Javastraat,121,C,,Enschede,7512 ZE,55,woonfunctie,Javastraat 121 C  7512 ZE Enschede
+De Sanderij,37,,,Schoorl,1871 ER,55,woonfunctie,De Sanderij 37   1871 ER Schoorl
+Veldweg,22,,124,Nooitgedacht,9449 PW,68,logiesfunctie,Veldweg 22  124 9449 PW Nooitgedacht
+Salland,5,,,Beverwijk,1948RE,2420,industriefunctie,Salland 5   1948RE Beverwijk
+Gerstakker,4,,,Diessen,5087 SW,166,woonfunctie,Gerstakker 4   5087 SW Diessen
+Saltshof,2826,,,Wijchen,6604 GH,116,woonfunctie,Saltshof 2826   6604 GH Wijchen
+Mahoniestraat,63,,,Venlo,5925 HD,90,woonfunctie,Mahoniestraat 63   5925 HD Venlo
+Noordweg,117,,,'s-Gravenhage,2548 AB,6,overige gebruiksfunctie,Noordweg 117   2548 AB 's-Gravenhage
+Herbenusstraat,184,B,02,Maastricht,6211 RJ,52,woonfunctie,Herbenusstraat 184 B 02 6211 RJ Maastricht
+Jan van der Heijdenstraat,38,,,'s-Gravenhage,2522ER,59,woonfunctie,Jan van der Heijdenstraat 38   2522ER 's-Gravenhage
+Frans van Mierisstraat,41,,,Groningen,9718 SR,62,woonfunctie,Frans van Mierisstraat 41   9718 SR Groningen
+Pepinusbrug,6,C,,Echt,6102RJ,88,logiesfunctie,Pepinusbrug 6 C  6102RJ Echt
+Den Hulst,84,B,,Nieuwleusen,7711 GR,98,woonfunctie,Den Hulst 84 B  7711 GR Nieuwleusen
+Rubenslaan,33,,,Vleuten,3451 JK,64,woonfunctie,Rubenslaan 33   3451 JK Vleuten
+Vondellaan,5,,,Alblasserdam,2951 TN,128,woonfunctie,Vondellaan 5   2951 TN Alblasserdam
+Dr H.J. van Mooklaan,75,,,Rijswijk,2286BB,17,overige gebruiksfunctie,Dr H.J. van Mooklaan 75   2286BB Rijswijk
+Bogaartsborg,86,,,Maastricht,6228 AN,119,woonfunctie,Bogaartsborg 86   6228 AN Maastricht
+Curaçaostraat,43,,,'s-Gravenhage,2585 ZA,52,woonfunctie,Curaçaostraat 43   2585 ZA 's-Gravenhage
+Baron van Sytzamastraat,6,,,Brummen,6971 ZB,100,woonfunctie,Baron van Sytzamastraat 6   6971 ZB Brummen
+Eikenlaan,45,,,Liessel,5757PS,386,industriefunctie,Eikenlaan 45   5757PS Liessel
+De Smidse,11,,,Moordrecht,2841XW,82,woonfunctie,De Smidse 11   2841XW Moordrecht
+Thorbeckeweg,265,,,Dordrecht,3317EE,65,woonfunctie,Thorbeckeweg 265   3317EE Dordrecht
+Merce Cunninghamplantsoen,103,,,Amsterdam,1095PJ,34,woonfunctie,Merce Cunninghamplantsoen 103   1095PJ Amsterdam
+Den Hoef,21,,,Ameide,4233GJ,157,woonfunctie,Den Hoef 21   4233GJ Ameide
+Morra,26,,,Drachten,9204KH,93,woonfunctie,Morra 26   9204KH Drachten
+Burgemeester Fockema Andreaeplein,7,,,Utrecht,3582 LA,19,woonfunctie,Burgemeester Fockema Andreaeplein 7   3582 LA Utrecht
+Telefoonstraat,39,,,Tilburg,5038DN,45,winkelfunctie,Telefoonstraat 39   5038DN Tilburg
+Wilgenbroek,71,,,Breda,4822 XT,95,woonfunctie,Wilgenbroek 71   4822 XT Breda
+Admiraal Helfrichlaan,17,,,Dieren,6952 GB,112,woonfunctie,Admiraal Helfrichlaan 17   6952 GB Dieren
+Eikenlaan,45,K,,Spijkenisse,3203BG,74,woonfunctie,Eikenlaan 45 K  3203BG Spijkenisse
+Jan van Goyenlaan,4,,,Apeldoorn,7312NJ,85,woonfunctie,Jan van Goyenlaan 4   7312NJ Apeldoorn
+Stationsweg,26,,,Maarssen,3603EE,110,woonfunctie,Stationsweg 26   3603EE Maarssen
+Pioniersstraat,44,,,Ysselsteyn,5813BX,223,woonfunctie,Pioniersstraat 44   5813BX Ysselsteyn
+Keurhove,124,L,,Middelburg,,17,overige gebruiksfunctie,Keurhove 124 L   Middelburg
+Rozenlaan,9,,,Ermelo,3851 PD,154,woonfunctie,Rozenlaan 9   3851 PD Ermelo
+Haspel,93,,1,Ermelo,3852 LR,52,logiesfunctie,Haspel 93  1 3852 LR Ermelo
+Slingerweg,14,B,,Den Burg,1791 AW,34,woonfunctie,Slingerweg 14 B  1791 AW Den Burg
+Balingerbrink,205,,GB40,Emmen,7812SH,16,overige gebruiksfunctie,Balingerbrink 205  GB40 7812SH Emmen
+Lagestraat,48,,,Niftrik,6606 KC,219,industriefunctie,Lagestraat 48   6606 KC Niftrik
+Amundsenweg,2,,3,Amsterdam,1056AT,67,woonfunctie,Amundsenweg 2  3 1056AT Amsterdam
+Bastion,49,,,Tholen,4691ER,108,woonfunctie,Bastion 49   4691ER Tholen
+Joachim Stillerstraat,72,,,Zaandam,1507 PW,89,woonfunctie,Joachim Stillerstraat 72   1507 PW Zaandam
+Pietersbergweg,265,,,Amsterdam,1105BM,41,woonfunctie,Pietersbergweg 265   1105BM Amsterdam
+Pastoor Canniuslaan,46,,,Bergschenhoek,2661 HW,108,woonfunctie,Pastoor Canniuslaan 46   2661 HW Bergschenhoek
+Eekstraat,18,a,136,Doesburg,6984AG,-1,,Eekstraat 18 a 136 6984AG Doesburg
+Bé van den Doolstraat,43,,,Deventer,7425 RR,115,woonfunctie,Bé van den Doolstraat 43   7425 RR Deventer
+Geerakker,20,,,Wagenberg,4845ES,150,woonfunctie,Geerakker 20   4845ES Wagenberg
+Schoolstraat,22,,,Buitenpost,9285 NE,109,woonfunctie,Schoolstraat 22   9285 NE Buitenpost
+Korhoenlaan,7,,,Huizen,1272 DD,379,woonfunctie,Korhoenlaan 7   1272 DD Huizen
+A. van der Meulenstrjitte,8,,,De Westereen,9271BL,105,woonfunctie,A. van der Meulenstrjitte 8   9271BL De Westereen
+Breestraat,45,A,,Leiden,2311 CH,49,woonfunctie,Breestraat 45 A  2311 CH Leiden
+Nieuwstraat,16,,,Ovezande,4441 AH,52,woonfunctie,Nieuwstraat 16   4441 AH Ovezande
+Dorpsstraat,67,,,Wamel,6659 CC,82,woonfunctie,Dorpsstraat 67   6659 CC Wamel
+Koperwiek,24,,,Harmelen,3481DK,66,woonfunctie,Koperwiek 24   3481DK Harmelen
+Couperusweg,64,,,Almere,1321AV,111,woonfunctie,Couperusweg 64   1321AV Almere
+Laan van Zuidbroek,130,,,Apeldoorn,7324 BJ,144,woonfunctie,Laan van Zuidbroek 130   7324 BJ Apeldoorn
+Cornelie Huygensstraat,19,,,Coevorden,7741 ZZ,-1,,Cornelie Huygensstraat 19   7741 ZZ Coevorden
+Gounodlaan,59,,G02,Eindhoven,,18,overige gebruiksfunctie,Gounodlaan 59  G02  Eindhoven
+Nieuwehaven,288,,,Rotterdam,3011VN,57,woonfunctie,Nieuwehaven 288   3011VN Rotterdam
+Van Oldenbarneveltstraat,18,,,Drunen,5151 CE,165,woonfunctie,Van Oldenbarneveltstraat 18   5151 CE Drunen
+Eikenlaan,66,,,Wolvega,8471 KE,84,woonfunctie,Eikenlaan 66   8471 KE Wolvega
+Haverberg,18,,,Roosendaal,4708 HR,113,woonfunctie,Haverberg 18   4708 HR Roosendaal
+Tjerk Hiddes de Vriesstraat,54,,,Harlingen,8861GZ,100,woonfunctie,Tjerk Hiddes de Vriesstraat 54   8861GZ Harlingen
+Langendijk,1,b,,Gorinchem,4201 CE,68,woonfunctie,Langendijk 1 b  4201 CE Gorinchem
+Zwaluw,12,,,Barendrecht,2991 MZ,105,woonfunctie,Zwaluw 12   2991 MZ Barendrecht
+Meilanden,60,,,Barneveld,3773ZM,54,woonfunctie,Meilanden 60   3773ZM Barneveld
+Saffraan,15,,,Raalte,8101 DH,170,woonfunctie,Saffraan 15   8101 DH Raalte
+Talmaweg,20,,,Barendrecht,2992 AH,94,woonfunctie,Talmaweg 20   2992 AH Barendrecht
+Het Kwadrant,172,,,Maarssen,3606AZ,24,woonfunctie,Het Kwadrant 172   3606AZ Maarssen
+Oude Schoolweg,1,,,Glimmen,9756BX,294,woonfunctie,Oude Schoolweg 1   9756BX Glimmen
+Boxtelsebaan,103,,,Oisterwijk,5061 VC,120,woonfunctie,Boxtelsebaan 103   5061 VC Oisterwijk
+Gravin Juliana van Stolberglaan,567,,,Leidschendam,2263 AZ,101,woonfunctie,Gravin Juliana van Stolberglaan 567   2263 AZ Leidschendam
+Dintel,57,,,Veldhoven,5504 ME,100,woonfunctie,Dintel 57   5504 ME Veldhoven
+Palembangstraat,23,,,Groningen,9715LK,85,woonfunctie,Palembangstraat 23   9715LK Groningen
+Kruizemuntstraat,14,,,Arnhem,6833GB,80,woonfunctie,Kruizemuntstraat 14   6833GB Arnhem
+Stationsstraat,7,,,Nijverdal,7443BX,182,gezondheidszorgfunctie,Stationsstraat 7   7443BX Nijverdal
+Bedrijvenstraat,3,,,Zaamslag,4543 NZ,784,industriefunctie,Bedrijvenstraat 3   4543 NZ Zaamslag
+Boterzwin,3427,,,Julianadorp,1788WH,62,woonfunctie,Boterzwin 3427   1788WH Julianadorp
+Gemini,29,,,Heeze,5591 PR,173,woonfunctie,Gemini 29   5591 PR Heeze
+Boterdiep,24,b,,Groningen,9712 LP,31,woonfunctie,Boterdiep 24 b  9712 LP Groningen
+Cronebos,2,,,Ede,6718 HG,114,woonfunctie,Cronebos 2   6718 HG Ede
+Marskramerstraat,12,,,Etten-Leur,4871MH,117,woonfunctie,Marskramerstraat 12   4871MH Etten-Leur
+Saturnusstraat,74,,,Utrecht,3582 PS,114,woonfunctie,Saturnusstraat 74   3582 PS Utrecht
+Weurtseweg,172,,,Nijmegen,6541BB,81,woonfunctie,Weurtseweg 172   6541BB Nijmegen
+Voskuilenweg,125,,GB26,Heerlen,,14,overige gebruiksfunctie,Voskuilenweg 125  GB26  Heerlen
+Prinses Arianelaan,204,,,Zeist,3708 XG,82,woonfunctie,Prinses Arianelaan 204   3708 XG Zeist
+Kloosterstraat,29,,,Susteren,6114HG,49,woonfunctie,Kloosterstraat 29   6114HG Susteren
+Alewijnlaan,16,,,Loosdrecht,1231VP,102,woonfunctie,Alewijnlaan 16   1231VP Loosdrecht
+Windevlinderstraat,74,,,Eindhoven,5641DR,86,woonfunctie,Windevlinderstraat 74   5641DR Eindhoven
+Zuursche Duinen,35,,,Steenbergen,9307 PG,71,woonfunctie,Zuursche Duinen 35   9307 PG Steenbergen
+Litherweg,15,,MZ,Oss,5346 JB,67,woonfunctie,Litherweg 15  MZ 5346 JB Oss
+Diepenheimseweg,24,,,Gelselaar,7275 AR,148,woonfunctie,Diepenheimseweg 24   7275 AR Gelselaar
+Kerdijkhof,166,,,Amsterdam,1067MN,99,woonfunctie,Kerdijkhof 166   1067MN Amsterdam
+President Kennedylaan,14,,,Heerenveen,8442 JJ,65,woonfunctie,President Kennedylaan 14   8442 JJ Heerenveen
+Reinaard,12,,,Kollum,9291 AD,139,woonfunctie,Reinaard 12   9291 AD Kollum
+Pannenschuurlaan,203,,,Oisterwijk,5061 DM,96,woonfunctie,Pannenschuurlaan 203   5061 DM Oisterwijk
+Bloklandstraat,157,,,Rotterdam,3036TH,154,woonfunctie,Bloklandstraat 157   3036TH Rotterdam
+Bosjeslaan,48,,,Vlissingen,4382PV,66,woonfunctie,Bosjeslaan 48   4382PV Vlissingen
+Vijfhuizenberg,104,a,,Roosendaal,4708AM,445,industriefunctie,Vijfhuizenberg 104 a  4708AM Roosendaal
+Putterweg,66,,15,Garderen,3886 PE,-1,,Putterweg 66  15 3886 PE Garderen
+Burgemeester Blankenhof,15,,,Lopik,3411 XW,71,woonfunctie,Burgemeester Blankenhof 15   3411 XW Lopik
+Teteringsedijk,103,,,Breda,4817 MB,289,bijeenkomstfunctie,Teteringsedijk 103   4817 MB Breda
+Cardonpad,1,,,Hoogvliet Rotterdam,3193LJ,63,woonfunctie,Cardonpad 1   3193LJ Hoogvliet Rotterdam
+Robert Stolzplantsoen,263,,,'s-Gravenhage,2555 SJ,89,woonfunctie,Robert Stolzplantsoen 263   2555 SJ 's-Gravenhage
+Stegeboersweg,19,,,Wierden,7642NP,221,overige gebruiksfunctie,Stegeboersweg 19   7642NP Wierden
+Molenstraat,44,,,Lienden,4033AV,108,industriefunctie,Molenstraat 44   4033AV Lienden
+Wanmolen,30,,,Hellevoetsluis,3224 BT,117,woonfunctie,Wanmolen 30   3224 BT Hellevoetsluis
+Jacoba van Beierenweg,20,c,,Voorhout,2215LB,65,woonfunctie,Jacoba van Beierenweg 20 c  2215LB Voorhout
+Theodorus Dobbestraat,20,,,Amsterdam,1063 BV,81,woonfunctie,Theodorus Dobbestraat 20   1063 BV Amsterdam
+'t Zegeveld,132,,,Egmond aan den Hoef,1934BN,-1,,'t Zegeveld 132   1934BN Egmond aan den Hoef
+Scheperseiland,25,,,Eelderwolde,9766VE,258,woonfunctie,Scheperseiland 25   9766VE Eelderwolde
+Oosterhofweg,30,,,Rijssen,7461BV,95,woonfunctie,Oosterhofweg 30   7461BV Rijssen
+Spiegelstraat,5,,,Zutphen,7201 KA,253,woonfunctie,Spiegelstraat 5   7201 KA Zutphen
+Entrepothof,32,,,Amsterdam,1019 DJ,84,woonfunctie,Entrepothof 32   1019 DJ Amsterdam
+Kraaienplein,46,,,Amsterdam,1021EG,68,woonfunctie,Kraaienplein 46   1021EG Amsterdam
+Kleine Laak,24,,,Roggel,6088CV,595,logiesfunctie,Kleine Laak 24   6088CV Roggel
+Lauwers,84,,,Harderwijk,3844 ME,60,woonfunctie,Lauwers 84   3844 ME Harderwijk
+Stoofstraat,15,,,Poortvliet,4693RB,130,woonfunctie,Stoofstraat 15   4693RB Poortvliet
+Hazelaar,13,,,Hellevoetsluis,3224RB,127,woonfunctie,Hazelaar 13   3224RB Hellevoetsluis
+De Witte Raaflaan,75,,,Noordwijk,2204 BK,74,logiesfunctie,De Witte Raaflaan 75   2204 BK Noordwijk
+Kamperfoeliestraat,12,,,Almelo,7601EX,108,woonfunctie,Kamperfoeliestraat 12   7601EX Almelo
+Pastoor de Kroonstraat,94,,,'s-Hertogenbosch,5211SR,63,woonfunctie,Pastoor de Kroonstraat 94   5211SR 's-Hertogenbosch
+Hanrathstraat,38,E,,Rotterdam,3067 TD,47,woonfunctie,Hanrathstraat 38 E  3067 TD Rotterdam
+Het Heijderbos,216,,,Heijen,6598 LA,75,logiesfunctie,Het Heijderbos 216   6598 LA Heijen
+Ru Parésingel,64,,,Pijnacker,2642 CR,125,woonfunctie,Ru Parésingel 64   2642 CR Pijnacker
+Zanddijk,116,,,Rozenburg,3181 HW,110,woonfunctie,Zanddijk 116   3181 HW Rozenburg
+Hart van Brabantlaan,728,,,Tilburg,5038 JB,71,woonfunctie,Hart van Brabantlaan 728   5038 JB Tilburg
+Anna Paulownalaan,90,,,Zeist,3708 HL,71,woonfunctie,Anna Paulownalaan 90   3708 HL Zeist
+Kwartsiet,12,,,Zoetermeer,2719 TC,116,woonfunctie,Kwartsiet 12   2719 TC Zoetermeer
+Nieuweweg,102,,,Wijchen,6603 BS,136,industriefunctie,Nieuweweg 102   6603 BS Wijchen
+Laan op Zuid,1816,,,Rotterdam,3071 AC,71,woonfunctie,Laan op Zuid 1816   3071 AC Rotterdam
+Van Oost-Frieslandstraat,63,,07,Schijndel,5482GV,16,overige gebruiksfunctie,Van Oost-Frieslandstraat 63  07 5482GV Schijndel
+Anijsstraat,3,,,Wierden,7641EB,176,woonfunctie,Anijsstraat 3   7641EB Wierden
+Lorentzlaan,43,,,Terneuzen,4532KN,92,woonfunctie,Lorentzlaan 43   4532KN Terneuzen
+Kobbeflecht,56,,,Hurdegaryp,9254AG,121,woonfunctie,Kobbeflecht 56   9254AG Hurdegaryp
+Neijlandstraat,29,,,Westendorp,7054 CP,147,woonfunctie,Neijlandstraat 29   7054 CP Westendorp
+Lauder Hokweg,3,,,Sellingen,9551XV,151,woonfunctie,Lauder Hokweg 3   9551XV Sellingen
+Braspenningdreef,8,,,Cuijk,5431AM,138,woonfunctie,Braspenningdreef 8   5431AM Cuijk
+Dokter Poolstraat,5,,,Hoogwoud,1718 PA,148,woonfunctie,Dokter Poolstraat 5   1718 PA Hoogwoud
+Reijdersant,24,,,Emmeloord,8303XN,126,woonfunctie,Reijdersant 24   8303XN Emmeloord
+Buttingstraat,118,,,Hoensbroek,6431JH,68,woonfunctie,Buttingstraat 118   6431JH Hoensbroek
+Plecht,1,,,Huizen,1276 HG,499,bijeenkomstfunctie,Plecht 1   1276 HG Huizen
+Kardemomweg,43,,,Utrecht,3541RJ,124,woonfunctie,Kardemomweg 43   3541RJ Utrecht
+Heverleestraat,9,,,Amsterdam,1066 JJ,85,woonfunctie,Heverleestraat 9   1066 JJ Amsterdam
+Onder Zeil,17,,,Enkhuizen,1602 HZ,146,woonfunctie,Onder Zeil 17   1602 HZ Enkhuizen
+Arkepôlle,2,,,Oudega,9216XG,223,woonfunctie,Arkepôlle 2   9216XG Oudega
+Hogenkampsweg,32,,,Zwolle,8022 DH,76,woonfunctie,Hogenkampsweg 32   8022 DH Zwolle
+Nieuwe Maasstraat,117,,,Schiedam,3114 TH,71,woonfunctie,Nieuwe Maasstraat 117   3114 TH Schiedam
+Ulenpaslaan,37,,,Arnhem,6825 EE,182,woonfunctie,Ulenpaslaan 37   6825 EE Arnhem
+Herenstraat,83,E,,Leiden,2313 AG,91,woonfunctie,Herenstraat 83 E  2313 AG Leiden
+Jacoba Mosselhof,66,,,Amsterdam,1065WB,101,woonfunctie,Jacoba Mosselhof 66   1065WB Amsterdam
+Fresiapad,7,,,Valkenswaard,5551 AL,104,woonfunctie,Fresiapad 7   5551 AL Valkenswaard
+Standvoetbeker,7,,,Borger,9531PM,126,woonfunctie,Standvoetbeker 7   9531PM Borger
+Bellamystraat,19,C,,Amsterdam,1053BE,53,industriefunctie,Bellamystraat 19 C  1053BE Amsterdam
+Langestraat,10,B,,Hilversum,1211 GZ,125,woonfunctie,Langestraat 10 B  1211 GZ Hilversum
+Scheldestraat,32,,,Lewedorp,4456 AT,116,woonfunctie,Scheldestraat 32   4456 AT Lewedorp
+Hengelolaan,471,,,'s-Gravenhage,2544 KX,108,woonfunctie,Hengelolaan 471   2544 KX 's-Gravenhage
+Trompstraat,28,,,Sliedrecht,3361 VX,85,woonfunctie,Trompstraat 28   3361 VX Sliedrecht
+Prinses Margrietstraat,10,,,Joure,8501JA,102,woonfunctie,Prinses Margrietstraat 10   8501JA Joure
+De Specerij,60,,,Almere,1313 NH,173,woonfunctie,De Specerij 60   1313 NH Almere
+Kalkhúswei,30,,,Westergeast,9295 KN,160,woonfunctie,Kalkhúswei 30   9295 KN Westergeast
+Prinses Amalia Promenade,228,,,Rijswijk,2284DR,105,woonfunctie,Prinses Amalia Promenade 228   2284DR Rijswijk
+Hagedoornstraat,17,,,Heerlen,6417 AP,129,woonfunctie,Hagedoornstraat 17   6417 AP Heerlen
+Dammaspolderpad,4,,,Gouda,2807 KX,110,woonfunctie,Dammaspolderpad 4   2807 KX Gouda
+Fien de la Marstraat,43,,,Zutphen,7207 GP,139,woonfunctie,Fien de la Marstraat 43   7207 GP Zutphen
+De Driesten,29,,,Ermelo,3851DT,95,woonfunctie,De Driesten 29   3851DT Ermelo
+Jan Ligthartstraat,47,b,,Lekkerkerk,,18,overige gebruiksfunctie,Jan Ligthartstraat 47 b   Lekkerkerk
+Drijffhoutstraat,11,,,Eindhoven,5622 KR,101,woonfunctie,Drijffhoutstraat 11   5622 KR Eindhoven
+Maria Wijngaard,417,,,Weert,6001BK,60,woonfunctie,Maria Wijngaard 417   6001BK Weert
+Cornelis Trooststraat,77,,H,Amsterdam,1072JD,63,woonfunctie,Cornelis Trooststraat 77  H 1072JD Amsterdam
+Veerkade,1,E,,Rotterdam,3016 DE,801,kantoorfunctie,Veerkade 1 E  3016 DE Rotterdam
+Goorsebergweg,9,,,Deurne,5752PX,348,industriefunctie,Goorsebergweg 9   5752PX Deurne
+Lydie Platestraat,18,,,Voorburg,2274LZ,131,woonfunctie,Lydie Platestraat 18   2274LZ Voorburg
+Meeuwensingel,41,,,Rozenburg,3181SK,117,woonfunctie,Meeuwensingel 41   3181SK Rozenburg
+Wassenberghstraat,49,a,,Groningen,9718LJ,94,woonfunctie,Wassenberghstraat 49 a  9718LJ Groningen
+Zuideinde,53,,,Oostzaan,1511 GB,179,gezondheidszorgfunctie,Zuideinde 53   1511 GB Oostzaan
+Meester de Klerkstraat,91,,,Zeist,3701DN,60,woonfunctie,Meester de Klerkstraat 91   3701DN Zeist
+H.A. Kooykerplein,1,,,Groningen,9713GT,196,woonfunctie,H.A. Kooykerplein 1   9713GT Groningen
+Pruimentuin,5,,,Barendrecht,2991 TP,114,woonfunctie,Pruimentuin 5   2991 TP Barendrecht
+Anna van Saksenstraat,35,,,Noord-Scharwoude,1723KR,102,woonfunctie,Anna van Saksenstraat 35   1723KR Noord-Scharwoude
+Jacob van Lennepkade,510,,,Amsterdam,1053 MK,-1,,Jacob van Lennepkade 510   1053 MK Amsterdam
+Dalweg,21,A,,Hilversum,1217 HX,150,woonfunctie,Dalweg 21 A  1217 HX Hilversum
+Korenbloemstraat,5,,,Rheden,6991VN,61,woonfunctie,Korenbloemstraat 5   6991VN Rheden
+Kromhoutstraat,198,,,Rotterdam,3067AH,70,woonfunctie,Kromhoutstraat 198   3067AH Rotterdam
+Amkemaheerd,325,,,Groningen,9736KA,102,woonfunctie,Amkemaheerd 325   9736KA Groningen
+Orlofflaan,35,,,Barneveld,3772WM,118,woonfunctie,Orlofflaan 35   3772WM Barneveld
+Lavendelhof,34,,,Zundert,4881GS,46,woonfunctie,Lavendelhof 34   4881GS Zundert
+Fûgelleane,21,,,Bolsward,8702 CC,210,woonfunctie,Fûgelleane 21   8702 CC Bolsward
+Poirtershoek,14,,,Gemert,5421 TZ,111,woonfunctie,Poirtershoek 14   5421 TZ Gemert
+Bloemenlaan,152,,,Sint-Maartensdijk,4695HG,145,woonfunctie,Bloemenlaan 152   4695HG Sint-Maartensdijk
+Ootmarsumseweg,211,,,Fleringen,7666NB,103,overige gebruiksfunctie,Ootmarsumseweg 211   7666NB Fleringen
+Toussaintstraat,43,,,Rotterdam,3027XW,96,woonfunctie,Toussaintstraat 43   3027XW Rotterdam
+Willem de Zwijgerlaan,205,,,Alphen aan den Rijn,2405 VV,83,woonfunctie,Willem de Zwijgerlaan 205   2405 VV Alphen aan den Rijn
+De Ruyterstraat,51,,,Zoetermeer,,21,overige gebruiksfunctie,De Ruyterstraat 51    Zoetermeer
+Selijnsweg,2,,G1,Waverveen,,7,overige gebruiksfunctie,Selijnsweg 2  G1  Waverveen
+Margrietstraat,3,,,Leiden,2316RM,108,woonfunctie,Margrietstraat 3   2316RM Leiden
+Bevrijdingstraat,43,,,Ossendrecht,4641BG,143,woonfunctie,Bevrijdingstraat 43   4641BG Ossendrecht
+Ierlandstraat,3,,,Haarlem,2034 LL,18,overige gebruiksfunctie,Ierlandstraat 3   2034 LL Haarlem
+Houtzagerij,12,,,Waalre,5582 GW,144,woonfunctie,Houtzagerij 12   5582 GW Waalre
+Ganzerikveld,35,,,Woerden,3448 GS,78,woonfunctie,Ganzerikveld 35   3448 GS Woerden
+Kometenstraat,60,,,Apeldoorn,7314 JZ,80,woonfunctie,Kometenstraat 60   7314 JZ Apeldoorn
+Zandkampweg,1,A,,Lunteren,6741DV,162,woonfunctie,Zandkampweg 1 A  6741DV Lunteren
+Kerkhoflaan,12,,,Ede,6718 ZJ,123,woonfunctie,Kerkhoflaan 12   6718 ZJ Ede
+Grote Staat,49,,,Maastricht,6211 CV,248,winkelfunctie,Grote Staat 49   6211 CV Maastricht
+Smitsdijk,31,,,'s-Gravenhage,2497 WP,123,woonfunctie,Smitsdijk 31   2497 WP 's-Gravenhage
+Enterij,35,,,Limmen,1906 BX,137,woonfunctie,Enterij 35   1906 BX Limmen
+Nieuwstraat,3,a,,Schimmert,6333AN,267,woonfunctie,Nieuwstraat 3 a  6333AN Schimmert
+Veilinghavenkade,137,,,Utrecht,3521AT,180,kantoorfunctie,Veilinghavenkade 137   3521AT Utrecht
+Hendrik Pieter van Praagstraat,12,,,Oudewater,3421 VZ,75,woonfunctie,Hendrik Pieter van Praagstraat 12   3421 VZ Oudewater
+J.E. de Witstraat,1,,,Uitgeest,1911 GS,76,woonfunctie,J.E. de Witstraat 1   1911 GS Uitgeest
+Korianderlaan,99,,,Amstelveen,1187 EE,101,woonfunctie,Korianderlaan 99   1187 EE Amstelveen
+Mariastraat,205,,,Schiedam,3117 NK,87,woonfunctie,Mariastraat 205   3117 NK Schiedam
+Heuvelstraat,32,,,Breda,4813 GA,111,woonfunctie,Heuvelstraat 32   4813 GA Breda
+Riouwstraat,87,,,Utrecht,3531CW,67,woonfunctie,Riouwstraat 87   3531CW Utrecht
+Vieruitersten,18,,,Meijel,5768RP,510,industriefunctie,Vieruitersten 18   5768RP Meijel
+Cornelis Houtmanstraat,24,,,Goes,4461 XZ,94,woonfunctie,Cornelis Houtmanstraat 24   4461 XZ Goes
+Eindhovenseweg,11,a,,Steensel,5524AN,194,woonfunctie,Eindhovenseweg 11 a  5524AN Steensel
+Zuiderpad,89,,,Zuidoostbeemster,1461 BS,90,woonfunctie,Zuiderpad 89   1461 BS Zuidoostbeemster
+Surinameplein,66,,2,Amsterdam,1058GT,73,woonfunctie,Surinameplein 66  2 1058GT Amsterdam
+Corellistraat,11,,,Leeuwarden,8915BM,64,woonfunctie,Corellistraat 11   8915BM Leeuwarden
+Bernard de la Faillebocht,6,,,Rotterdam,3053 KP,159,woonfunctie,Bernard de la Faillebocht 6   3053 KP Rotterdam
+Edama,19,,,Uithuizen,9981ND,556,industriefunctie,Edama 19   9981ND Uithuizen
+Stationsstraat,20,B,,Drunen,5151 HB,126,winkelfunctie,Stationsstraat 20 B  5151 HB Drunen
+Mercatorstraat,76,,H,Amsterdam,1056 RK,98,winkelfunctie,Mercatorstraat 76  H 1056 RK Amsterdam
+Oude Bredasebaan,11,b,,Baarle-Nassau,5111 GA,371,woonfunctie,Oude Bredasebaan 11 b  5111 GA Baarle-Nassau
+Dennekoplaan,38,,,IJmuiden,1974 VC,16,overige gebruiksfunctie,Dennekoplaan 38   1974 VC IJmuiden
+Het Var,35,,,Leeuwarden,8939BJ,192,woonfunctie,Het Var 35   8939BJ Leeuwarden
+Huigendijk,27,,,Rotterdam,3079GH,89,woonfunctie,Huigendijk 27   3079GH Rotterdam
+Hondsruglaan,11,,,Eindhoven,5628DA,158,woonfunctie,Hondsruglaan 11   5628DA Eindhoven
+Achterloet,8,,,Uitgeest,1911CL,121,woonfunctie,Achterloet 8   1911CL Uitgeest
+Havensingel,258,,,Eindhoven,5611 VW,355,woonfunctie,Havensingel 258   5611 VW Eindhoven
+Willem-Alexanderstraat,65,,,Nijverdal,7442MZ,66,woonfunctie,Willem-Alexanderstraat 65   7442MZ Nijverdal
+Winde,20,,,Zeewolde,3892HE,86,woonfunctie,Winde 20   3892HE Zeewolde
+Eilandplein,12,,,Duiven,6922EL,70,woonfunctie,Eilandplein 12   6922EL Duiven
+Zeilbergseweg,3,,,Ysselsteyn,5813 AK,140,bijeenkomstfunctie,Zeilbergseweg 3   5813 AK Ysselsteyn
+Molenpad,17,,,Willemstad,4797 AH,97,woonfunctie,Molenpad 17   4797 AH Willemstad
+Veldpoort,23,,,Swalmen,6071 JK,182,woonfunctie,Veldpoort 23   6071 JK Swalmen
+Tilgrupsweg,3,A,,Appelscha,8426 SN,1915,industriefunctie,Tilgrupsweg 3 A  8426 SN Appelscha
+Anjerstraat,3,,,Bosschenhoofd,4744AR,90,woonfunctie,Anjerstraat 3   4744AR Bosschenhoofd
+Wijngaardstraat,24,,,Made,4921 ZL,206,woonfunctie,Wijngaardstraat 24   4921 ZL Made
+Nieuwlandsweg,28,D,,Rijssen,7461VR,13,overige gebruiksfunctie,Nieuwlandsweg 28 D  7461VR Rijssen
+Hemmingstraat,39,,,Zutphen,7207RL,127,woonfunctie,Hemmingstraat 39   7207RL Zutphen
+Jan van Goyenkade,8,,,Leiden,2311 AX,188,woonfunctie,Jan van Goyenkade 8   2311 AX Leiden
+Drierivierenlaan,12,,,Ridderkerk,2983GW,127,woonfunctie,Drierivierenlaan 12   2983GW Ridderkerk
+Immanuel Kantstraat,70,,,Rotterdam,3076DK,88,gezondheidszorgfunctie,Immanuel Kantstraat 70   3076DK Rotterdam
+Galileistate,95,,,Zandvoort,2041BS,85,woonfunctie,Galileistate 95   2041BS Zandvoort
+Kruissteenweg,69,,,Wierden,7642VX,85,woonfunctie,Kruissteenweg 69   7642VX Wierden
+Loefzij,140,,,Huizen,1276HP,123,woonfunctie,Loefzij 140   1276HP Huizen
+Kattedoorn,19,,,Kampen,8265 MG,105,woonfunctie,Kattedoorn 19   8265 MG Kampen
+Hovenierslaantje,6,,,Tiel,4001 HP,123,woonfunctie,Hovenierslaantje 6   4001 HP Tiel
+Laagte Kadijk,92,,,Amsterdam,1018BB,61,woonfunctie,Laagte Kadijk 92   1018BB Amsterdam
+Van der Pekstraat,83,,1,Amsterdam,1031 CT,68,woonfunctie,Van der Pekstraat 83  1 1031 CT Amsterdam
+Vlinderveen,162,,,Spijkenisse,3205 EJ,114,woonfunctie,Vlinderveen 162   3205 EJ Spijkenisse
+Saskeroort,3,,,Broek op Langedijk,1721JK,163,woonfunctie,Saskeroort 3   1721JK Broek op Langedijk
+Steven Wiegmanlaan,17,,,West-Terschelling,8881 GH,106,woonfunctie,Steven Wiegmanlaan 17   8881 GH West-Terschelling
+Kroostweg,9000,,,Zeist,,9,overige gebruiksfunctie,Kroostweg 9000    Zeist
+Eduard Flipsestraat,20,,,Hengelo,7558 DS,137,woonfunctie,Eduard Flipsestraat 20   7558 DS Hengelo
+Rijstgras,36,,,Rotterdam,3068 CN,122,woonfunctie,Rijstgras 36   3068 CN Rotterdam
+Gedempte Burgwal,51,A,,'s-Gravenhage,2512BS,41,woonfunctie,Gedempte Burgwal 51 A  2512BS 's-Gravenhage
+Olieslagersstraat,421,,,Roermond,6044 TN,41,woonfunctie,Olieslagersstraat 421   6044 TN Roermond
+Ooievaar,162,,,Nieuw-Lekkerland,2957NH,69,woonfunctie,Ooievaar 162   2957NH Nieuw-Lekkerland
+Schapendries,34,,,Eersel,5521LH,47,woonfunctie,Schapendries 34   5521LH Eersel
+Kastrupstraat,29,,,Tilburg,5042TX,16,overige gebruiksfunctie,Kastrupstraat 29   5042TX Tilburg
+Elzenlaan,138,,,Dordrecht,3319 VC,88,woonfunctie,Elzenlaan 138   3319 VC Dordrecht
+Irissenstraat,2,d,,Sassenheim,2172 TN,20,overige gebruiksfunctie,Irissenstraat 2 d  2172 TN Sassenheim
+Appelgaard,36,,,Elst,6662HN,120,woonfunctie,Appelgaard 36   6662HN Elst
+Eindhovensedijk,42,D,500,Oirschot,5688GN,438,onderwijsfunctie,Eindhovensedijk 42 D 500 5688GN Oirschot
+Leo Gestelstraat,7,,,Ede,6717 RH,96,woonfunctie,Leo Gestelstraat 7   6717 RH Ede
+Witte de Withstraat,288,A,,Dordrecht,,30,overige gebruiksfunctie,Witte de Withstraat 288 A   Dordrecht
+Houtzagerij,1,,,Waalre,5582GW,116,woonfunctie,Houtzagerij 1   5582GW Waalre
+Dorpsstraat,140,,,Benthuizen,2731AT,182,woonfunctie,Dorpsstraat 140   2731AT Benthuizen
+Tolstraat,154,,1R,Amsterdam,1074 VM,58,woonfunctie,Tolstraat 154  1R 1074 VM Amsterdam
+Koppelen,16,,,Steensel,5524AB,289,woonfunctie,Koppelen 16   5524AB Steensel
+Bronkhorstdreef,10,,,Roosendaal,4706 VB,190,woonfunctie,Bronkhorstdreef 10   4706 VB Roosendaal
+Maaldrift,9,C,044,Wassenaar,2241BN,-1,,Maaldrift 9 C 044 2241BN Wassenaar
+Keurhove,86,,,Middelburg,4336 GR,111,woonfunctie,Keurhove 86   4336 GR Middelburg
+Dokter Holtropstraat,79,,,Ermelo,3851JH,75,woonfunctie,Dokter Holtropstraat 79   3851JH Ermelo
+Merodestraat,24,,,Stein,6171XN,82,woonfunctie,Merodestraat 24   6171XN Stein
+Bisschop Masiusstraat,13,,,Tilburg,5014 PA,90,woonfunctie,Bisschop Masiusstraat 13   5014 PA Tilburg
+Taling,7,,,Grijpskerk,9843GH,142,woonfunctie,Taling 7   9843GH Grijpskerk
+Dr Wiardi Beckmanlaan,99,,,Egmond aan Zee,1931BX,93,woonfunctie,Dr Wiardi Beckmanlaan 99   1931BX Egmond aan Zee
+Emmastraat,2,,,Axel,4571 LC,132,woonfunctie,Emmastraat 2   4571 LC Axel
+Aan het beeldje,2,,,Gronsveld,6247 JA,240,woonfunctie,Aan het beeldje 2   6247 JA Gronsveld
+Grote Houw,299,,,Breda,4817 RG,145,woonfunctie,Grote Houw 299   4817 RG Breda
+Burgerhoutsestraat,159,d,,Roosendaal,4702BD,50,woonfunctie,Burgerhoutsestraat 159 d  4702BD Roosendaal
+Lucas van Leydenhage,50,,,Nieuwegein,3437NT,110,woonfunctie,Lucas van Leydenhage 50   3437NT Nieuwegein
+Julius Röntgenstraat,108,,,'s-Gravenhage,2551KV,16,overige gebruiksfunctie,Julius Röntgenstraat 108   2551KV 's-Gravenhage
+Touwslagersdreef,16,D,,Maastricht,6216PZ,86,woonfunctie,Touwslagersdreef 16 D  6216PZ Maastricht
+Moermanskkade,81,,,Amsterdam,1013 BC,843,industriefunctie,Moermanskkade 81   1013 BC Amsterdam
+Olijvengaarde,24,,,Houten,3992 KN,68,woonfunctie,Olijvengaarde 24   3992 KN Houten
+Barmsijs,18,,,Nieuwegein,3435BN,64,woonfunctie,Barmsijs 18   3435BN Nieuwegein
+Engelandsweg,1,,,Wezep,8091 BA,754,winkelfunctie,Engelandsweg 1   8091 BA Wezep
+Tielsestraat,1,,,Opheusden,4043JP,120,woonfunctie,Tielsestraat 1   4043JP Opheusden
+Mozartstraat,6,a,,Zutphen,7204 PE,33,woonfunctie,Mozartstraat 6 a  7204 PE Zutphen
+Weerribben,33,,,Zeewolde,3894 BE,133,woonfunctie,Weerribben 33   3894 BE Zeewolde
+Emmastraat,18,,,Helmond,5707HG,147,woonfunctie,Emmastraat 18   5707HG Helmond
+Godelindeweg,1,,A15,Naarden,1411 GG,104,woonfunctie,Godelindeweg 1  A15 1411 GG Naarden
+Groeneweg,1,,0075,Bruinisse,4311 NG,77,logiesfunctie,Groeneweg 1  0075 4311 NG Bruinisse
+Kromme Leimuidenstraat,15,,1,Amsterdam,1059EL,54,woonfunctie,Kromme Leimuidenstraat 15  1 1059EL Amsterdam
+Papenstraat,78,,,Deventer,7411NG,78,woonfunctie,Papenstraat 78   7411NG Deventer
+Leeuwenbrug,51,,,Deventer,7411TG,119,kantoorfunctie,Leeuwenbrug 51   7411TG Deventer
+Eisingahof,39,,,Tilburg,5025 DN,115,woonfunctie,Eisingahof 39   5025 DN Tilburg
+Huub Hermansstraat,46,,,Vaals,6291LN,188,woonfunctie,Huub Hermansstraat 46   6291LN Vaals
+Nienhuis Ruijskade,37,,,Muiderberg,1399KA,120,woonfunctie,Nienhuis Ruijskade 37   1399KA Muiderberg
+Nieuwstraat,2,,,Wessem,6019 BV,153,woonfunctie,Nieuwstraat 2   6019 BV Wessem
+Lingestraat,78,,,Ridderkerk,2987 CG,115,woonfunctie,Lingestraat 78   2987 CG Ridderkerk
+de Vree,31,,,Wapenveld,8191JE,81,woonfunctie,de Vree 31   8191JE Wapenveld
+Dantestraat,464,,,Rotterdam,3076KV,166,gezondheidszorgfunctie,Dantestraat 464   3076KV Rotterdam
+Oranjeplein,80,C,,Maastricht,6224 KP,81,woonfunctie,Oranjeplein 80 C  6224 KP Maastricht
+Welpenheuvel,6,,,De Mortel,5425 PL,158,woonfunctie,Welpenheuvel 6   5425 PL De Mortel
+Johan Schippersplantsoen,11,,3,Amsterdam,1063 JZ,52,woonfunctie,Johan Schippersplantsoen 11  3 1063 JZ Amsterdam
+Koriander,2,,,Numansdorp,3281MD,114,woonfunctie,Koriander 2   3281MD Numansdorp
+Dirkje Goedhartstraat,41,,,Rotterdam,3065HH,107,woonfunctie,Dirkje Goedhartstraat 41   3065HH Rotterdam
+Zwanenveld,2295,,,Nijmegen,6538PS,88,woonfunctie,Zwanenveld 2295   6538PS Nijmegen
+Merelstraat,10,,,Krimpen aan den IJssel,2922VJ,82,woonfunctie,Merelstraat 10   2922VJ Krimpen aan den IJssel
+Lavendellaan,10,,,Eindhoven,5643 LT,147,woonfunctie,Lavendellaan 10   5643 LT Eindhoven
+De Waard,1,,,Heiloo,1851RA,172,woonfunctie,De Waard 1   1851RA Heiloo
+Kamperfoeliestraat,7,,,Odoorn,7873 AT,124,woonfunctie,Kamperfoeliestraat 7   7873 AT Odoorn
+Zebraspoor,194,,,Maarssen,3605 GL,100,woonfunctie,Zebraspoor 194   3605 GL Maarssen
+Wethouder Broekenstraat,4,,,Made,4921TZ,110,woonfunctie,Wethouder Broekenstraat 4   4921TZ Made
+Burggraaf Zwederlaan,54,,,Montfoort,3417 AK,155,woonfunctie,Burggraaf Zwederlaan 54   3417 AK Montfoort
+Merenborch,70,,,Vianen,4132HC,184,woonfunctie,Merenborch 70   4132HC Vianen
+Apollostraat,517,,,Rotterdam,3054 TC,71,woonfunctie,Apollostraat 517   3054 TC Rotterdam
+Wijnstraat,13,,,Dordrecht,3311BT,104,woonfunctie,Wijnstraat 13   3311BT Dordrecht
+Hippolytushof,1,,113,Middelstum,9991AV,30,woonfunctie,Hippolytushof 1  113 9991AV Middelstum
+Lidwinastraat,9,,,Kelpen-Oler,6037 RT,127,woonfunctie,Lidwinastraat 9   6037 RT Kelpen-Oler
+Scholtis vd Hardtstraat,2,,GA10,Stein,,18,overige gebruiksfunctie,Scholtis vd Hardtstraat 2  GA10  Stein
+Akkerhof,6,,,Leiden,2321 VD,112,woonfunctie,Akkerhof 6   2321 VD Leiden
+Lelie,91,,,Voorhout,2215ZC,110,woonfunctie,Lelie 91   2215ZC Voorhout
+Statenlaan,48,,,Helmond,5708 ZW,136,woonfunctie,Statenlaan 48   5708 ZW Helmond
+Margrietstraat,36,,,Druten,6651 XG,108,woonfunctie,Margrietstraat 36   6651 XG Druten
+Bergselaan,91,B,,Rotterdam,3037BC,100,woonfunctie,Bergselaan 91 B  3037BC Rotterdam
+Kostverlorenstraat,22,,,Nieuwe Niedorp,1733 VH,152,woonfunctie,Kostverlorenstraat 22   1733 VH Nieuwe Niedorp
+De Omloop,2,,,Sint Maarten,1744LC,130,woonfunctie,De Omloop 2   1744LC Sint Maarten
+Industrieweg,5,G,,Oirschot,5688 DP,218,industriefunctie,Industrieweg 5 G  5688 DP Oirschot
+Cornelis Evertsenplein,22,,,Alkmaar,1813 VJ,45,woonfunctie,Cornelis Evertsenplein 22   1813 VJ Alkmaar
+Otto Zomerweg,37,,,Hollandscheveld,7913 AE,111,woonfunctie,Otto Zomerweg 37   7913 AE Hollandscheveld
+Graveurstraat,25,,,Alkmaar,1825EG,98,woonfunctie,Graveurstraat 25   1825EG Alkmaar
+Sleutelbloem,64,,,Nootdorp,2631TZ,121,woonfunctie,Sleutelbloem 64   2631TZ Nootdorp
+Europastraat,13,a,,Dinteloord,4671ET,96,woonfunctie,Europastraat 13 a  4671ET Dinteloord
+Weerdskampweg,60,,,'s-Hertogenbosch,5222 BA,28,industriefunctie,Weerdskampweg 60   5222 BA 's-Hertogenbosch
+Julianastraat,51,,,Oldenzaal,7573AG,82,woonfunctie,Julianastraat 51   7573AG Oldenzaal
+Gillis van Ledenberchstraat,97,,1,Amsterdam,1052 VC,44,woonfunctie,Gillis van Ledenberchstraat 97  1 1052 VC Amsterdam
+Musicalstraat,3,B,,Almere,1323VR,75,industriefunctie,Musicalstraat 3 B  1323VR Almere
+Groenhof,5,,,Huizen,1275 BB,126,woonfunctie,Groenhof 5   1275 BB Huizen
+Cornelis Schuytstraat,41,,,Eindhoven,5654 HT,99,woonfunctie,Cornelis Schuytstraat 41   5654 HT Eindhoven
+Gentiaanstraat,4,,,Assen,9404GN,105,woonfunctie,Gentiaanstraat 4   9404GN Assen
+Generaal Smutslaan,656,,,Tilburg,5025 AL,10,overige gebruiksfunctie,Generaal Smutslaan 656   5025 AL Tilburg
+Edo Jongamastraat,85,,,Sneek,8602 VV,76,woonfunctie,Edo Jongamastraat 85   8602 VV Sneek
+Valkenburgerweg,142,,,Heerlen,6419AW,120,woonfunctie,Valkenburgerweg 142   6419AW Heerlen
