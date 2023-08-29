@@ -2,29 +2,28 @@
   "lang":"en",
   "name":"pipeline",
   "version":"0.0.0",
-  "spacy_version":">=3.1.2,<3.2.0",
+  "spacy_version":">=3.6.1,<3.7.0",
   "description":"",
   "author":"",
   "email":"",
   "url":"",
   "license":"",
-  "spacy_git_version":"e1f88de72",
+  "spacy_git_version":"458bc5f45",
   "vectors":{
     "width":0,
     "vectors":0,
     "keys":0,
-    "name":null
+    "name":null,
+    "mode":"default"
   },
   "labels":{
     "ner":[
-      "BUILDING_NAME",
-      "BUILDING_NO",
+      "ADDITION",
       "CITY",
-      "COUNTRY",
-      "RECIPIENT",
-      "STATE",
-      "STREET_NAME",
-      "ZIP_CODE"
+      "HOUSE_LETTER",
+      "HOUSE_NUMBER",
+      "POSTAL_CODE",
+      "STREET"
     ]
   },
   "pipeline":[
@@ -37,51 +36,41 @@
 
   ],
   "performance":{
-    "ents_f":0.9733840304,
-    "ents_p":0.9696969697,
-    "ents_r":0.9770992366,
+    "ents_f":0.9928741093,
+    "ents_p":0.9952380952,
+    "ents_r":0.990521327,
     "ents_per_type":{
-      "BUILDING_NO":{
-        "p":0.9375,
-        "r":0.9375,
-        "f":0.9375
-      },
-      "STREET_NAME":{
-        "p":0.9473684211,
+      "STREET":{
+        "p":1.0,
         "r":1.0,
-        "f":0.972972973
+        "f":1.0
+      },
+      "HOUSE_NUMBER":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "POSTAL_CODE":{
+        "p":0.9795918367,
+        "r":0.9795918367,
+        "f":0.9795918367
       },
       "CITY":{
         "p":1.0,
         "r":1.0,
         "f":1.0
       },
-      "STATE":{
+      "HOUSE_LETTER":{
         "p":1.0,
         "r":1.0,
         "f":1.0
       },
-      "ZIP_CODE":{
+      "ADDITION":{
         "p":1.0,
-        "r":1.0,
-        "f":1.0
-      },
-      "COUNTRY":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
-      },
-      "RECIPIENT":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
-      },
-      "BUILDING_NAME":{
-        "p":0.5,
-        "r":0.5,
-        "f":0.5
+        "r":0.75,
+        "f":0.8571428571
       }
     },
-    "ner_loss":0.0020140509
+    "ner_loss":0.000002492
   }
 }
